@@ -1,0 +1,52 @@
+<Entry xml:id="gornitiI">
+  <pb n="46" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gorniti I</orth>
+    <lemma>gorniti I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gornet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, разговаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Seh- nert 66, с реконструкцией *gorniti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gronis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, называть, сказывать . —Ср., с другим темати­ ческим гласным основы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SL I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гранаты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рассказывать, говорить с воодушевлением</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vuk. 382)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от имени <ref type="etymon" target="gornb">*gornb</ref> / <ref type="etymon" target="gorno">*gorno</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

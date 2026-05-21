@@ -17,8 +17,7 @@
   {% for lemma in lemmas %}
   <a href="{{ url_for('main.lemma_view', lemma_id=lemma.id) }}" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center border-0 border-bottom py-3">
     <span class="fw-bold" style="color: #2c3e50;">{{ lemma.lemma }}</span>
-    <span class="badge bg-light text-dark rounded-pill">стр. {{ lemma.page_start }}{% if lemma.page_start != lemma.page_end %}–{{ lemma.page_end }}{% endif %}</span>
-  </a>
+    <span class="badge bg-light text-dark rounded-pill">стр. {{ lemma.page }}</span>
   {% endfor %}
 </div>
 {% endblock %}

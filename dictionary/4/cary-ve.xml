@@ -1,0 +1,25 @@
+<Entry xml:id="cary-ve">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čary/-ъve</orth>
+    <lemma>čary/-ъve</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>-ъуе</orth>
+    <lemma>-ъуе</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>царва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чарка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Опыт 252)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Не отмеченное Фасмером реликтовое слово (основа на -й-), соотносительное с *cara I (см.) и близко родственное др.-инд. сага- 'котел'.</note>
+</Entry>

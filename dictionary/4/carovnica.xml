@@ -1,0 +1,128 @@
+<Entry xml:id="carovnica">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarovьnica</orth>
+    <lemma>čarovьnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чаровница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь горла у лошадей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>carovnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колдунья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 93: «ст.-слав.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>carovnice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колдунья, ведьма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>carovnica</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czarownica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>колдунья, ведьма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cdrevnica</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чаровьница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдунья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Поел. иг. Памф. Псков, намести. 1505 г., Срезневский III, 1472)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чаровница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворожея, колдунья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чарЬвнйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>волшебница, колдунья, очаровательница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 445)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чараунща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вол­ шебница, колдунья, знахарка; обворожительница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэцш 167)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-ьтса</ref>
+      </m> от гл. <ref type="etymon" target="carovati">*carovati</ref>.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="sagoitk">*сагоиъткъ</ref>
+    </xr> (см.). В равной мере допустима субстантивация прилаг. 
+ (см.). В равной мере допустима субстантивация прилаг. 
+ (см.). В равной мере допустима субстантивация прилаг. 
+ (см.). В равной мере допустима субстантивация прилаг. 
+<xr type="compare">см. <ref type="etymon" target="sagoip">*сагоиъпъ</ref>
+    </xr> с помощью суфф. -ica. с помощью суфф. -ica. с помощью суфф. -ica. с помощью суфф. -ica.</note>
+</Entry>

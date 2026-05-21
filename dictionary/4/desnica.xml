@@ -1,0 +1,92 @@
+<Entry xml:id="desnica">
+  <pb n="218" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*desnica</orth>
+    <lemma>desnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>десыицл</ref> ж. p. 8e|ia dextra</orth>
+      </form>
+      <sense>
+        <def>правая рука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>десница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>правая рука , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>десница</ref> , деснйцъ ж. р.</orth>
+      </form>
+      <sense>
+        <def>правая рука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(. . . Целивайте му десница, И проштен'е сакайте му.. . —Прилеп, Губислав, Соф.; Ярлово, Самоковско. СбНУ XVI, XVII, 3, 112; XLIV, 271; I, 2, 64; цит. по: Архив Болг. диал. словаря, София; также см. М. Младенов БД III, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско.— БД VI, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>десница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>правая рука, десница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>десница</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>desnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>правая рука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>десница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>правая рука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Панд. Ант. XI в.; Ио. екз. Бог. 98; Кир. Тур. Сл. на Возн. 72, Срезневский I, 655)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="desna">*desna</ref> 
+(см. 
+<ref type="etymon" target="desnb">*desnb)</ref>; 
+субстантивация.</gram>
+  </gramGrp>
+</Entry>

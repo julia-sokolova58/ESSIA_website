@@ -1,0 +1,34 @@
+<Entry xml:id="delena">
+  <pb n="232" end_page="233" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlĕna</orth>
+    <lemma>dĕlĕna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. (<ref>Георгиев</ref>) делянка ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Valeriana officinalis (по поверию, растение-разлучник)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>деляна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>участок земли (Картотека Псковского областного словаря), . сюда же производные делянйца ж. р. полоска земли; делянка , делянка ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 107)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Древность об­ разования проблематична. укр. дыянйця ж. р. дележ , дыЛнка ж. р. половина мычки льну, пеньки, часть, участок . •deliti Производное с суфф.<m type="suffix">
+        <ref>-ёпа</ref>
+      </m> от гл. <ref type="etymon" target="deliti">*deliti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

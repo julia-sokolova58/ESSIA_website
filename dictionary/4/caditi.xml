@@ -1,0 +1,180 @@
+<Entry xml:id="caditi">
+  <pb n="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čaditi</orth>
+    <lemma>čaditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чадя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, чадить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чадим</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>коп­ тить , чада то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. Гълъбов. Говорът на село Доброславци, Софийско.— ' БД II, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевен- ско. — БД VI, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чади</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чадить, дымить , сербо- хорв. чадити покрываться копотью, сажей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>čaditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чадить, испаряться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cediti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>коптить (Vyklad па zje- venie sv. Jana, Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>čaditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>коптить, дымить, сюда же контаминированные cmouditi, cmuditi коптить, чадить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cmadit</ref> se , cuditi, couditi</orth>
+      </form>
+      <sense>
+        <def>чадить, дымить, пылить, испытавшие влияние продолже­ ний<xr type="compare">см. <ref type="etymon" target="svqditi">*svqditi</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kuf se cmadil do oci. Bartos. Slov. 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cadiV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чадить, дымить , так­ же crrmdif</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 188)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 218—219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cddif</ref> то же , ср. выше аналогичные контаминации в</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>формах</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>codet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, коптить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czadzid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чадить, коптить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Doroszewski I, 1088)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чадить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издавать чад, производить чад</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чадити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угарить , чадить, дымить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чадзщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чадить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (каузатив), производный от <ref type="etymon" target="cadb-2">*cadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

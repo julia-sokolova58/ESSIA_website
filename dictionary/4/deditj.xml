@@ -1,0 +1,146 @@
+<Entry xml:id="deditj">
+  <pb n="226" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕditjь</orth>
+    <lemma>dĕditjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , <ref>чак</ref>. djedic м. р.</orth>
+      </form>
+      <sense>
+        <def>наследник, дворянин, землевладелец , дёдиИ м. р. наследник , djeduh м. р. дед, предок , также фам. ДёдиТг, ДёдиН</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 435)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA IV, 360)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dedid</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>наследник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dedic</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>наследник , de- dic наследник, владелец, помещик, свободный земледелец, господин, сюзерен</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 216—217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Brandl 24—25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dedic</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>наследник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dedic</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dedid</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>наследник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziedzic</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>на­ следник, помещик, (земле)владелец , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 560—561)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дЪдичъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наследник (по деду), наследный владетель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. 1190 г.; Подтверд. грам. 1361 г.; Жал. гр. 1388 г., Срез­ невский I, 782—783)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дёдич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>прямой наследник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 1, 1268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дьдич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>помещик, владетель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 388)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дгёдггч</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>наследник по деду</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Патронимич. производное с суфф.<m type="suffix">
+        <ref>-itjb</ref>
+      </m> от <ref type="etymon" target="dedb">*dedb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Об исто- рич. семантике см. подробно К. Moszynski JP XXXIII, 1953, 361.</note>
+</Entry>

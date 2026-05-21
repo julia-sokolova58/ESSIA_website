@@ -1,0 +1,35 @@
+<Entry xml:id="camav">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čamavъ</orth>
+    <lemma>čamavъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чамав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>больной, болезненный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чанъфу</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>больной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 232)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -(а)иъ от гл.<ref type="etymon" target="camati">*camati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

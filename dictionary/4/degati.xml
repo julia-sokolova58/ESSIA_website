@@ -1,0 +1,45 @@
+<Entry xml:id="degati">
+  <pb n="228" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕgati</orth>
+    <lemma>dĕgati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>dĕgati</ref> se</orth>
+      </form>
+      <sense>
+        <def>ссориться, препираться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA II, 331)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>dĕgati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бросать, метать , degati se ссориться, браниться, ругаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 350)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(J. Kelemina. Pravne starine slovenske v filoloski luci. — «Glashik muzejskega drustva» XIII, 1932, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>degat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пихать, кутать (цит. по Ильинскому, ниже)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Ср. лит. diegti 'колоть', лтш. diegty лит. diegas 'росток', ddigas, лтш. diegs. См. Г. А. Ильинский у Трубачева ВЯ 1957, № 6, 95. Настораживает отсутствие сведений о слвц. слове у Махека (нет ни в одном изд. его этимол. словаря). См. еще *dbgnyti.</note>
+</Entry>

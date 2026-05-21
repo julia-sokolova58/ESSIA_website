@@ -1,0 +1,39 @@
+<Entry xml:id="cadnj">
+  <pb n="10" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čadьnъ(jь)</orth>
+    <lemma>čadьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чаден</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дымный , сербо­ хорв. cadany -dna, прилаг. caliginosus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон. III, 529)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVII в., RJA I, 877)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>c</ref>&amp;dan, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чадный, угарный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 92)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Zadny, прилаг. 'полный чада' (Jungmann I, 257), 'чадящий' (Kott. Dod. k Bart. И), елвц. 6adnyy прилаг. 'закопченный' (SSJ I, 188), русск. чадный (Даль 3 IV, 1280), укр. чаднйй, -а, -е 'угарный' (Гринченко IV, 443), блр. чадны 'угарный' (Байкоу — Некраш. 342).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от основы<ref type="etymon" target="cadb-2">*cadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

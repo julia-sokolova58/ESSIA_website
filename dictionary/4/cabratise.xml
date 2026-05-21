@@ -1,0 +1,79 @@
+<Entry xml:id="cabratise">
+  <pb n="7" end_page="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čabrati (sę)</orth>
+    <lemma>čabrati (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cabrdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плескаться (в воде)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cabrat</ref> sa</orth>
+      </form>
+      <sense>
+        <def>возиться в воде , cab- rat sa медленно идти , cabrat se во­ зиться в воде, ходить медленно, с трудом , cabrat sa плескаться в воде , cab­ rat se идти потихоньку, медленно , caprac\ VabraV мараться , елвц. eabraf sa плескаться, возиться в воде , возм., сюда же (с се- *cabriti мант, изменением)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(A. KaSik. Popis a rozbor nafe6i stfedobecevskeho. Praha, 1908, 90. — Kott. Dod. k Bart. 11)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вост.-мор., BartoS. Slov. 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.- bucov. 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina, Mistf. 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Коребпу. Ur6. 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cabrdc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать (языком) .—Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>eabiriwat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быстро семенить ногами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov. 107)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, гл. звукоподражат. происхождения, образующий рифмованную пару с<ref type="etymon" target="babrati">*babrati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Образования такого рода могут быть древними. Сюда же<xr type="compare">см. <ref type="etymon" target="cabriti">*cabriti</ref>
+    </xr>....</note>
+</Entry>

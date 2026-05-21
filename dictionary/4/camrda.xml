@@ -1,0 +1,29 @@
+<Entry xml:id="camrda">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čamъrda</orth>
+    <lemma>čamъrda</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>camrda</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>неповоротливый, неуклюжий человек , общеязыковое знач.— юла, волчок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ср. еще Hruska. Slov. chod. 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение экспрессивной приставки са-, местоим. происхож­ дения, и основы<ref type="etymon" target="mbrda">*mbrda/</ref>
+      <ref type="etymon" target="mbrdb">*mbrdb</ref> 
+и <ref type="etymon" target="mbrdati">*mbrdati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

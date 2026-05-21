@@ -1,0 +1,81 @@
+<Entry xml:id="dednj">
+  <pb n="228" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕdьnъ(jь)</orth>
+    <lemma>dĕdьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deden</ref>, -dnay прилаг.</orth>
+      </form>
+      <sense>
+        <def>наследный, наследствен­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dednyy</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>дедовский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 346)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дЪдънии</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>принадлежащий деду , дедовский , отчь идИдънъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пис. Влад. Мон. 1096 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Феод. Стр. 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. III л. под 1016 г. по Ст. сп.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 783)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дёд</ref>- ный</orth>
+      </form>
+      <sense>
+        <def>к деду относящийся, ему принадлежавший, от него пере­ шедший , сюда же субстантивированное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дёденъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дед</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 7, 329)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="dedb">*dedb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

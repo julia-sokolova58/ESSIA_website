@@ -1,0 +1,171 @@
+<Entry xml:id="deset">
+  <pb n="216" end_page="217" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*desętь</orth>
+    <lemma>desętь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дегАтд</ref> 8sxa, decern</orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>de</ref>­ cern, числ.</orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>decern</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёсёт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десять, разг. много, очень много</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deset</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>deset</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>desatf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 251)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzesac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zases</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>disqt</ref>, числ. колич.</orth>
+      </form>
+      <sense>
+        <def>де­ сять , сюда же местные новообразования disq(t)disgt сто , disqtnocti двадцать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 52, с реконструкцией *desetb)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziesiec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz^ -П г 590)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>glesinc</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. , <ref>Ефр</ref>. Крм. LXXXVII. 67, Срезневский I, 660), /русск. десять, pvccK.-цслав. десять</orth>
+      </form>
+      <sense>
+        <def>десять род. u. -и</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>десять</ref>, род. п. -тй, числ.</orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 373)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзёсяць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десять. По своим флективным особенностям праслав. *des?tb восходит к сущ-ному с основой на согласный *des?t- (ср. лит. desimt); вместе с тем есть основания говорить об и.-е. древности основы на *des?tb&lt;^*delcrri-t-i-s десятка, ср. др.-инд. daSati-h, лит. desimtls (род. п. desimties)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Только через стадию этой субстан­ тивной формы слав.<ref type="etymon" target="des-4">*des</ref>$tb восходит к и.-е. числ. <ref type="etymon" target="dekm">*dekm</ref> 'десять', 
+ср. др.-инд. ddea(n), 
+авест. dasa, тох. ёак, лат. decern, греч. 8еха, 
+др.-ирл. delch, гот. taihun, арм. tasrt.</gram>
+  </gramGrp>
+  <note>Дальнейшие этимологии и.-е. *deJcm как правило весьма гипотетичны, недоказуемы и не пред­ ставляют большого интереса. См. G. Meyer ВВ VIII, 1883, 188; Miklosich 43; J. Scfcefte- lowitz ВВ XXVIII, 1904, 286; M. v. Blankenstein IF XXI, 1907, 109—110; A. Meillet MSL 14, 1907, 343; Berneker I, 186—187; E. W. Fay AJPh XXXI, 1910, 422; W. Porzezinski RS IV, 1911, 7; G. Iljinskij AfslPh XXXIV, 1912, 5—6; Trautmann BSW 53; E. H. Sturtevant AJPh XLVIII, 1927, 247 и сл.; A. Meillet. Des noms de nombre ordinaux en indo-europeen. — BSL 29, 1928, 31; он же BSL 28, 1928, 41; W. Petersen «Language» 9, 1933, 19; E. H. Sturtevant «Language» 19, 1943, 299; S. E. Mann «Lan- guage»28, 1952, 33; В. П. Мажюлис ВЯ 1956, № 4, 54—55; О. СемереньиВЯ 1967, № 4, 9—10; Фасмер I, 507—508; Н. Birnbaum. Indo-European nominal formations submerged in Slavic 152—153.</note>
+</Entry>

@@ -1,0 +1,72 @@
+<Entry xml:id="camitise">
+  <pb n="15" end_page="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čamiti (sę)</orth>
+    <lemma>čamiti (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чамити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тосковать, исчезать, пропадать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 886: cdmlti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czamic</ref> si?</orth>
+      </form>
+      <sense>
+        <def>мучиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 369)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>camic</ref> sq</orth>
+      </form>
+      <sense>
+        <def>мучиться, изводить себя, в частности ночным бдением , cqmjic sq мучиться , cqmjec sq то же , возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ramutt 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чамйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнуть, ломать или коверкать , чачйть гнуть (пек., Картотека Словаря рус- ских народных говоров).—Ср. и соотносительное имя сербо­ хорв. ёйта ж. p. languor, тоска</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1278)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA Г, 885)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="camati">*camati</ref> (см.; там же об эти­
+мологии).</gram>
+  </gramGrp>
+  <note>Полезно обратить внимание на корневой вокализм польск., словин. и русск. слов, подтверждающий реконструкцию с праслав. -а- в корне. Русск. чамйтъ как будто прежде не этимологизировалось.</note>
+</Entry>

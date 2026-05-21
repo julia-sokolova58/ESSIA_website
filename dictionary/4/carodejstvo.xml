@@ -1,0 +1,70 @@
+<Entry xml:id="carodejstvo">
+  <pb n="24" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarodĕjьstvo</orth>
+    <lemma>čarodĕjьstvo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>carodefstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чародейство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 93: «ст.-слав.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>carodejstvo</ref> ср. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>carodejstvo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чародейство</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовство, во­ рожба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 912 г. и др., Срезневский III, 1472)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чародейство</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарадзёйства</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чародейство, волшебство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 1011)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-bstvo</ref>
+      </m> от <ref type="etymon" target="carodeb">*carode)b</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

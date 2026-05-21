@@ -1,0 +1,70 @@
+<Entry xml:id="delez">
+  <pb n="232" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕležь</orth>
+    <lemma>dĕležь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>делёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>раздел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>д</ref>§леш м. р.</orth>
+      </form>
+      <sense>
+        <def>раздел, деление (с. Корница, Благоевградско, дип. раб., Архив Софийск. ун-та), делёш м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. Гърмен, Благоевградско, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дележ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>деление, раздел, доля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>delez</ref> и. р.</orth>
+      </form>
+      <sense>
+        <def>доля, удел, участок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>делёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>раздел, особ, для надела, для раздачи каждому участнику по делу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1273)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-е1ь</ref>
+      </m> (название действия) от гл. <ref type="etymon" target="deliti">*deliti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

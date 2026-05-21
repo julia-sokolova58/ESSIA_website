@@ -1,0 +1,109 @@
+<Entry xml:id="caritiI">
+  <pb n="23" end_page="24" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čariti I</orth>
+    <lemma>čariti I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>cariti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чаровать, колдовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в словарях Вольтиджи и Стулли, RJA I, 894)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>carif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кол­ довать, чаровать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 192; ср. также Jungmann I, 260: «слвц.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czarzyc</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 375)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. с&amp;<ref>гёс</ref> то же , caf</orth>
+      </form>
+      <sense>
+        <def>ec то же .—Возм., сюда же преобразованные (по мотивам табу?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 136)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sychta I, 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чварити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворожить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vis. 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>czwarzyd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прикиды­ ваться, притворяться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>cvazyc</ref> ёе</orth>
+      </form>
+      <sense>
+        <def>медленно работать, копаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tomasz., Lop. 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чворйт</ref> &gt;</orth>
+      </form>
+      <sense>
+        <def>чудить, творить что-то неожиданное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук, Из лексики полесского села Листвин. — «Лексика Полесья» 92)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Далее, сюда же именное суффиксальное производное болг. диал. чарило ср. р. 'красавец' (Гълъбов БД II, 111).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (каузатив), производный от имени <ref type="etymon" target="saga-2">*сага</ref>, <ref type="etymon" target="sag-2">*сагъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Отнесение сюда сербохорв. чварити, польск. czwarzyd,, укр. диал. чворйт* является одновременно этимологией для этих затемненных слов. Затемнение вызвано табуистич. инфигированием, кот. охва­ тило, как видим, ряд слав, языков и диалектов, поэтому объяс­ нение, напр., сербохорв. cvdrati как контаминации carati и vracati (так Skok. Etim. rjecn. I, 295) не состоятельно ввиду наличия сходных преобразований в зап.-слав. и вост.-слав. диалектах, где ю.-слав. слово игас не известно. Брюкнер оставляет в сущности польск. czwarzyd без объяснения (см. Bruckner 82). В свете ска­ занного выше интерес представляет весьма архаич. значение укр. диал. чворйт* 'чудить, творить что-то неожиданное' (см. выше).</note>
+</Entry>

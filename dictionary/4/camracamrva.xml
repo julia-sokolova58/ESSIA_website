@@ -1,0 +1,51 @@
+<Entry xml:id="camracamrva">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čamьra/*čamьrva</orth>
+    <lemma>čamьra/*čamьrva</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сатьгуа</orth>
+    <lemma>сатьгуа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>сатгиа</ref>, сетгиа ж. р.</orth>
+      </form>
+      <sense>
+        <def>мелочь, мелюзга (о детях и мелких детенышах) , сатйг грязнуля, неряха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 66—67, 70; SSJ I, 190)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чаиъри</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(брашьно многою различно: тетерд. . ., дичина, чаАмъри, търтове. Сб. Троиц. XII в. — Срезневский III, 1471)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чамра</ref>, чемра ж. р.</orth>
+      </form>
+      <sense>
+        <def>морок, мрак, сумрак, меркоть; туск, рябь по воде, от ветру; мокрый снег с туманом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Даль 3 IV, 1284; там же: касп. чамрй, шачра 'удар ветра, шквал; рябь по воде, в затишь, от набега ветра')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение экспрессивной местоименной приставки са- и основы<ref type="etymon" target="tgia">*тьгиа</ref>, <ref type="etymon" target="tgish">*тъгиШ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Фасмер (IV, 313, 403) считает русск. диал. слова неясными.</note>
+</Entry>

@@ -1,0 +1,173 @@
+<Entry xml:id="devetnadesete">
+  <pb n="224" end_page="225" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*devętь na desęte</orth>
+    <lemma>devętь na desęte</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>деветнайсет</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>девятнадцать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>dueumudicu</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И. К. Бунина. Словарь говора ольшанских болгар. «Статьи и материалы по болгарской диалектологии СССР» 5. М., 1954, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>деветнаесет</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>де</ref>- Medina вёгпнаест</orth>
+      </form>
+      <sense>
+        <def>девятнадцать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>devetndjst</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>devatendct</ref> числ.</orth>
+      </form>
+      <sense>
+        <def>девятнадцать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>devdtndsf</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzewjatnace</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девятнадцать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zeweenasco</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka SI. 11, 1190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>divatnadist</ref>, числ. колич.</orth>
+      </form>
+      <sense>
+        <def>де­ вятнадцать, также divqtnocti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 53, с рекон­ струкцией *dev$tb па des$te)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziewiqtnaucie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девятнадцать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. 1, 653)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jievjincndusca</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девятнадцать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>девАтънадесАпгъ</ref>, девАпгънадцатъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1093 г., Срезневский 1, 651)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>девятнадцать</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дев</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ятпадцятъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзевятнаццаць</ref>.— Сюда же производное числ. порядк.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>девАтънадесАтънъ</ref> undevigesimus</orth>
+      </form>
+      <sense>
+        <def>девятнадцатый и т. п. формы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание<ref type="etymon" target="dev-4">*dev</ref>$tb (см.), предл. <ref type="etymon" target="pa-2">*па</ref> (см.) и местн. п. ед. ч. консо­
+нантной парадигмы <ref type="etymon" target="desptb-2">*desptb</ref> (см.). 
+<ref type="etymon" target="d-3">* d</ref> e v č Z b ? : в.-луж. dzewjaz 
+м. р, 'растение Tussilago' (Pfuhl 186).</gram>
+  </gramGrp>
+  <note>Неясное слово без соответствий, резко отличается от других названий подбела, Tussilago, ср. прежде всего слав. *podbbelb (см.; ср. о последнем Machek. Jmena rostlin 250). Вторая часть исход -$zb (если принять нашу реконструкцию) напоминает такое название растения, как слав. *gav-?zb : *?zykb? (см. эти слова у нас, ниже, а также см. Berneker I, 297—298, s. v. gavpzb, без упо­ минания в.-луж. dzewjaz).</note>
+</Entry>

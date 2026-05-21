@@ -1,0 +1,75 @@
+<Entry xml:id="desevj">
+  <pb n="219" end_page="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*deševъjь</orth>
+    <lemma>deševъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дешевый</ref> , Дешевой</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(He гако же гесть де­ шевою коупля, в др. пер.: и гако же скудость проданГи. Никон. Панд. сл. 46, Срезневский I, 661)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стасько Дешевой, земянин Смольянский. 1593, Тупиков 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дешёвый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>недорогой, мало стоящий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дешёвый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>глупый , не стоящий уважения (о че­ ловеке) (моек., урал.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль: велик бы детина, да дешев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дешёвий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>де­ шевый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 373)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзёшава</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дешево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Не- краш. 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Слово неясной структуры, для которого допускается древнее происхождение. Надежная этимология отсутствует (к числу пробле- матичных принадлежат этимология Педерсена — из *desiouo- как производного от *desiu- 'страна', ср. др.-перс. dahyu- 'страна, область'; этимология от<xr type="compare">см. <ref type="etymon" target="desiti">*desiti</ref>
+    </xr>). См. Berneker I, 188; Фас­
+мер I, 509 — 510; V. Pisani «Paideia» VII, 1952, 157; Mayrho-
+fer И, 28—29.). См. Berneker I, 188; Фас­
+мер I, 509 — 510; V. Pisani «Paideia» VII, 1952, 157; Mayrho-
+fer И, 28—29.). См. Berneker I, 188; Фас­
+мер I, 509 — 510; V. Pisani «Paideia» VII, 1952, 157; Mayrho-
+fer И, 28—29.). См. Berneker I, 188; Фас­
+мер I, 509 — 510; V. Pisani «Paideia» VII, 1952, 157; Mayrho-
+fer И, 28—29.</note>
+</Entry>

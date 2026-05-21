@@ -1,0 +1,106 @@
+<Entry xml:id="cajati">
+  <pb n="10" end_page="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čajati</orth>
+    <lemma>čajati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чдгати</ref> exBejfeo&amp;ai, expectare</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl. LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чаем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ждать (с. Иваняне, Софийско. Дип. раб., Архив Со- фийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ча</ref>]ати</orth>
+      </form>
+      <sense>
+        <def>ждать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdjati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ждать, ожидать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>caji</ref>, -dti</orth>
+      </form>
+      <sense>
+        <def>ждать, поджидать; наде­ яться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 257)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чдгати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ожи­ дать (Остр. ев. и др.), надеяться (Толк. Псалт. Евг. XI в. и др.), исследовать (Панд. Ант. XI в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чаять</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ожидать чего-н., надеяться на что-н</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чаять</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>предполагать .—Возм., сюда же, с ориги­ нальным семант. развитием</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь русск. старожильческих говоров средней части б. реки Оби. Доп. II, 263)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>ча</ref>]Ш</orth>
+      </form>
+      <sense>
+        <def>тосковать. исчезать, пропадать , ср. отношения *eakati — *cakngti (см. ниже)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно др.-ияд. cdyati 'замечает, наблюдает, опасается, чтит', с кот. слав, слово объединяют под и.-е. *tee(i)-. См. A. Meillet MSL 9, 1896, 139; он же MSL 13, 1903, 39; Вегпе- ker I, 134; Mayrhofer I, 383; Фасмер IV, 321; Pokorny I, 636.</note>
+  <gramGrp>
+    <gram>Т. о.,<ref type="etymon" target="cajati">*čajati</ref> может продолжать первонач. 
+гл. состояния.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,42 @@
+<Entry xml:id="dermo">
+  <pb n="214" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*derьmo</orth>
+    <lemma>derьmo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Дермо</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Новг., 1509 г., Ту­ пиков 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дерьмо</ref>, дермб ср. р.</orth>
+      </form>
+      <sense>
+        <def>кал, помет; навоз, сор, ^рянь, ветошь, тдояпье, грубая и ветхая одежда , Диал. дермб навЪз, дрянь, никуда негодные предметы, вещи (курск., костр., перм,, волог., самар,, Картотека Словаря русских народных говорив), дерьмо старая грубая одежда, толстая хол­ стина , дерьмо толстая холстина (пск/^-твер^&lt;вс)рон.), старая грубая одежда (пек., твер.), плохое рукоделье (влад., новг.) , дярьмб ср. р. грубая посконная ткань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1072)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек,, твер., Доп. к Опыту 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 27)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ворон., Доп. к Опыту 45)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъто</ref>
+      </m> от презентной основы гл. <ref type="etymon" target="derg">*derg</ref>,</gram>
+  </gramGrp>
+</Entry>

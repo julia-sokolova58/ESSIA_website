@@ -1,0 +1,27 @@
+<Entry xml:id="ajitjb">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ajitъjb?</orth>
+    <lemma>ajitъjb?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>vajity</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>овальный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 757)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное, возраст которого остается для нас проблематич­ ным, образованное с адъективным суфф. -it- от<ref type="etymon" target="aje">*aje</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="ajato">*ajato</ref>
+    </xr> (выше). (выше). (выше). (выше).</note>
+</Entry>

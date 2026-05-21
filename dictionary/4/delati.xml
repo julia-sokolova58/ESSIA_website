@@ -1,0 +1,277 @@
+<Entry xml:id="delati">
+  <pb n="231" end_page="232" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlati</orth>
+    <lemma>dĕlati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Ьллти epyaQsaOai, ^pdrceiv, xdjiveiv, laborare делать, работать, обрабатывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дялам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тесать, обтесывать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: дЪламь 'делать', 'тесать')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>д</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>алъм обтесывать, дёлам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 211; М. Младенов БД III. 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дела</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тесать, строгать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёлати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать, также dfelati</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 439—440)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>delat</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Tentor. Leksicka slaganja. — «Razprave» I, 1950, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dĕlati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ра­ ботать, делать, заниматься, выделывать, производить^дейст­ вовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dĕlati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать (шерсть)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Strekelj. Slov. 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dĕlati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>работать, делать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>delat</ref> , d^elaV : delad</orth>
+      </form>
+      <sense>
+        <def>drua рубить деревья , delat se гордиться, хвастать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vydra. Hor- noblan. 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 14; Konff. Slov. morav. 285)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">ст.-слвц. <ref>dĕlati</ref> zemi</orth>
+      </form>
+      <sense>
+        <def>обрабатывать землю</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Blanar. Hist, leksikol. 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzetae</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>работать, делать, обрабатывать, строить, действовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ola/ &amp;oloje 3 л, ед, ч. он работает &gt;</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 58, с рекон- d e l a v b ( j b ) струкцией *delaje)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Ша</ref>§</orth>
+      </form>
+      <sense>
+        <def>работать, действовать, ткать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzialac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>действовать, делать, созда­ вать, влиять, производить впечатление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 545—546)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dzietac</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>di</ref>- лати</orth>
+      </form>
+      <sense>
+        <def>действовать , работать (Остр. ев. и мн. др.), возделывать, обрабатывать (землю) , делать, строить, изго­ товлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илар. Зак. Благ.; Кир. Тур. 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Быт. II. 15 по сп. XIV в.; Исх. XXX. 24 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 983 г.; Новг. I л. под 1144 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 786)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>делать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заниматься чем-либо; вы­ полнять какую-либо работу, производить что-либо, вырабатывать, поступать каким-либо образом</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дълати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>действовать, де­ лать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дглати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Слов­ ник бойшвського д1алекту)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Единогласно характеризуется как отымённое производное на<m type="suffix">
+        <ref>-ati</ref>
+      </m> (основа наст. вр. -а]е-) от <ref type="etymon" target="delo">*delo</ref> (см.; там же об этимологии).</gram>
+  </gramGrp>
+  <note>Особняком стоит этимология Махека: *delati &lt;^<xr type="compare">ср. <ref type="etymon" target="dera-jdf">*dera-jdf</ref>
+    </xr> лит. 
+darau, daryti 
+'делать', греч. Spdco (Machek
+2 114). 
+См. Meillet. Etudes I, 20; Мейе. Общеслав. язык 182; Kiparsky. 
+Der Wortakzent der russ. Schriftsprache 293. лит. 
+darau, daryti 
+'делать', греч. Spdco (Machek
+2 114). 
+См. Meillet. Etudes I, 20; Мейе. Общеслав. язык 182; Kiparsky. 
+Der Wortakzent der russ. Schriftsprache 293. лит. 
+darau, daryti 
+'делать', греч. Spdco (Machek
+2 114). 
+См. Meillet. Etudes I, 20; Мейе. Общеслав. язык 182; Kiparsky. 
+Der Wortakzent der russ. Schriftsprache 293. лит. 
+darau, daryti 
+'делать', греч. Spdco (Machek
+2 114). 
+См. Meillet. Etudes I, 20; Мейе. Общеслав. язык 182; Kiparsky. 
+Der Wortakzent der russ. Schriftsprache 293.</note>
+</Entry>

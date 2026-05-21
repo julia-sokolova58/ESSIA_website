@@ -1,0 +1,22 @@
+<Entry xml:id="carkaII">
+  <pb n="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarъka II</orth>
+    <lemma>čarъka II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>сагка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колдовство . (Уменьшительное производное с суфф. -ъка от основы саг- .распро­ страненного гнезда слов (<xr type="compare">см. <ref type="etymon" target="cara-2">*cara</ref>
+          </xr> II, *сагъ, *сагъ) II, *сагъ, *сагъ) II, *сагъ, *сагъ) II, *сагъ, *сагъ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA I, 894)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Древность скорее сомнительна.</note>
+</Entry>

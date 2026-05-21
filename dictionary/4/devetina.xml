@@ -1,0 +1,142 @@
+<Entry xml:id="devetina">
+  <pb n="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*devętina</orth>
+    <lemma>devętina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>деветйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девять человек, поминки на девя­ тый день после смерти , девятая часть, копна из девяти снопов , деветйни мн. поминки на де­ вятый день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бернштейн, БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров: девятйна)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>деветйна</ref> ж. р. то же , деветйна ж. р.</orth>
+      </form>
+      <sense>
+        <def>девятеро , поминки на девятый день (тахМ же), деветйни мн. то же , диви- тйни мн. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 75)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 211)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов БД III, 56; Д. Евстатиева. С. Тръстеник, Плевенско.— БД VI, 167; Т. Бояджиев. Гюмюрджинско. — БД VI, 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>деветйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девятеро, девятая часть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>деветйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девятая часть, также деветйна ж. р. группа из девяти человек, девятая часть, уплачиваемая как налог, подать, поминки на девятый день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deuetina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девятая часть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>deuetina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девятая часть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>deudtina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>девАтины</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поминки по усопшем в девятый день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пайс. сб. 60; Дуб. сб. XVI в. 135. Прав, усоп., Срезневский I, 650)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>девятйны</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>девятый день после смерти (новг., перм., урал.), поминки в девятый день после смерти (костр., че- лябин.), девять дней (самар.) , девятйна ж. р. бёрдо в девять пасм (арх.), холст из поскони (новосиб.), мера пряжи (новг.) , девЛтина ж. р. разновидность бёрд по количеству входящих в него пасм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 324—325)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дев</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ятйни мн. поминки по умершем в девятый день после его смерти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 365)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.-та от числ.<ref type="etymon" target="deu">*deu</ref>$tb (см.); ср. <ref type="etymon" target="desqtina">* desqtina</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

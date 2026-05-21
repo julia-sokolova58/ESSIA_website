@@ -1,0 +1,101 @@
+<Entry xml:id="capnoti">
+  <pb n="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čapnǫti</orth>
+    <lemma>čapnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чапне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>схватить, выхватить, вырвать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сарпШ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>схватить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>сарпоиЫ</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>capnouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>получиться, выйти , VapnuV присесть на корточки, схватить, цапнуть , cabnuf хлестнуть, ударить (прутом, палкой) , cobnut хлестнуть, ударить (прутом), дать пощечину</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. Ill)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>capnuf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, хлоп­ нуть, хлестнуть, схватить, сцаиать, плеснуть, швырнуть , сюда же преобразованные cvapnuV швырнуть , crapnuV резко ударить, хлопнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 191)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 85)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чапнуться</ref> (пек., твер.)</orth>
+      </form>
+      <sense>
+        <def>перекинуться, перевер­ нуться, чебурахнуться, упасть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1285)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, производный от <ref type="etymon" target="capati">*capati</ref> (см.). 
+сароНь: русск. чаполочъ, чаполоть ж. р. 'растение Hierochloa bore-
+alis, пестрец, черстянка' (Даль
+3 IV, 1285), укр. чаполотъ, чапо-
+лоч ж. р. 'растениэ Hierochloa borealis, Calamagrostis epigeios' 
+(Гринченко IV, 444).</gram>
+  </gramGrp>
+  <note>Сложение экспрессивной местоименной приставки са- и -poltb, производного от гл.<xr type="compare">см. <ref type="etymon" target="resh">*реШ</ref>
+    </xr>. См. Фасмер IV, 315.. См. Фасмер IV, 315.. См. Фасмер IV, 315.. См. Фасмер IV, 315.</note>
+</Entry>

@@ -1,0 +1,397 @@
+<Entry xml:id="capati">
+  <pb n="16" end_page="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čapati</orth>
+    <lemma>čapati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёпамь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плясать в присядку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёпа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отламывать веточку на развилке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Говорът на с. Смолско, Пирдопско. — БД IV, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чапа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать, выхватывать, вырывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>čapati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать , чёпати бродить, топтаться вокруг, наступать на ноги кому-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 889)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>чёпат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шагать , далее —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(уничижит., Ел. II)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чупати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щипать, дергать , чупати се ссориться, драться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIX в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdpati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>cdbatd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>марать , ^cdpati дергать, щипать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sasel, Ramovs 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>čapati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать, ходить, вышагивать как аист , cdpati плескаться в воде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 258; Kott V—VI, 1160)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cdpat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>полоскать, мочить , capat сбивать, сши­ бать (яблоки с дерева) , приседать на корточки , хватать , capat садиться , cdpat sa шлепать по воде, по грязи , сюда же, с расширением -к-, capkatl сочиться, мочить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. И)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>capkat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хло­ пать руками , далее—cabaf бить, сбивать, отгонять палкой , редк. cupati дергать, щипать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cupat</ref> (si)</orth>
+      </form>
+      <sense>
+        <def>приседать на корточки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ciapaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, ударять, хватать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>сар</ref>- kaf (sa)</orth>
+      </form>
+      <sense>
+        <def>переливать через край, разливать, плескать(ся) , captaf ходить неуклюже ^ capkat (sa) таскаться, валандаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 191)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovenske Pravno v Turc. Z., Kalal 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>сарае</ref> so</orth>
+      </form>
+      <sense>
+        <def>садиться на корточки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>capas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растаптывать, шлепать, хватать, гоняться за чем-нибудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>czepac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задевать, мешать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чапать</ref>, чапать</orth>
+      </form>
+      <sense>
+        <def>трогать, брать, хватать; черпать; качать, зыбать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1285: вост.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чапать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брать , чапать, чапкать очень медленно идти, еле двигаться, чапать трогать, тревожить , чапать трогать, брать, хватать, качать , чепать кивать головою или качать ногою , чепать, чипать зацеплять, цепляться за что-либо, задевать, трогать , чипать трогать , чепаться повиснувши болтаться , цепатъ задевать , цяпать качать, шатать (сев.-двинск., Картотэка Словаря рус­ ских народных говоров), чапаться шататься (вят.), подыматься вверх (олон.), гсидя дремать (тобол.) , чепаться ходить, переваливаясь; качаться , чепаться качаться , цапаться шататься (Стул цапается. Пек. Картотека Словаря русских народных говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тул., Опыт 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. А. Рас­ торгуев. Словарь народных говоров западной Брянщины 282)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., южн., зап., Даль 3 IV, 1305)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., Опыт 258)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1275)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Говоры Прибалтики 341)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дерево чепается от ветру. Васнецов 342)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Богораз 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чапати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идти, медленно ступая со звуком (Лохв. у.), рвать, обрывать, напр. плоды с дерева (Вх.) , чепати трогать, свешиваться , чтати трогать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 444)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 451)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 465)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чапаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двигать, шатать . —Сюда же, видимо, с экспрессивной инфиксацией принадлежат</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>clapkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брызгать , clapat мазать, полоскать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 192: «па Slov.»)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>eliapaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плескать, бить, колотить , cVapkaf издавать шум, плеск (о воде, дожде), капать, сочиться, полоскать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>cztapac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идти волоча ноги, тащиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. 1,1142—1143)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Экспрессивное образование, однородное с<ref type="etymon" target="capati">*čapati</ref>, <ref type="etymon" target="xapatt">*xapatt</ref> (см.).</gram>
+  </gramGrp>
+  <note>Как и в этих последних, начальный согласный в *capati восхо­ дит в конечном счете к задненебному А:-, однако экспрессивный характер не позволяет возводить прямолинейно *сар- к *кер- (так см. Berneker I, 135; J. Safarewicz «Studia linguistica in hono- rem Th. Lehr-Splawinski» 138). Изначальным следует считать в этом экспрессивном итеративно-дуративном гл. вокализм -а-, причем переход ка-^&gt;са- осуществился путем особого экспрес­ сивного смягчения или субституции. Вторичными и восходящими в конце концов к праслав. *capati мы считаем огласовки с лабиа­ лизацией (типа *cupati) или назализацией (<xr type="compare">ср. далее <ref type="etymon" target="capeti">*capeti</ref>
+    </xr> 
+и продолжения его но языкам), с -е- вокализмом и инфигирова-
+нием того или иного рода 
+(см. выше). Родственно (если иметь 
+при этом в виду скорее не генетическое, а элементарное род­
+ство, функционально-типологическое подобие) лат. capio 'брать', 
+греч. хатгтсо 'хватать, глотать'. См. Berneker, там же. 
+и продолжения его но языкам), с -е- вокализмом и инфигирова-
+нием того или иного рода 
+(см. выше). Родственно (если иметь 
+при этом в виду скорее не генетическое, а элементарное род­
+ство, функционально-типологическое подобие) лат. capio 'брать', 
+греч. хатгтсо 'хватать, глотать'. См. Berneker, там же. 
+и продолжения его но языкам), с -е- вокализмом и инфигирова-
+нием того или иного рода 
+(см. выше). Родственно (если иметь 
+при этом в виду скорее не генетическое, а элементарное род­
+ство, функционально-типологическое подобие) лат. capio 'брать', 
+греч. хатгтсо 'хватать, глотать'. См. Berneker, там же. 
+и продолжения его но языкам), с -е- вокализмом и инфигирова-
+нием того или иного рода 
+(см. выше). Родственно (если иметь 
+при этом в виду скорее не генетическое, а элементарное род­
+ство, функционально-типологическое подобие) лат. capio 'брать', 
+греч. хатгтсо 'хватать, глотать'. См. Berneker, там же.</note>
+</Entry>

@@ -1,0 +1,48 @@
+<Entry xml:id="caratiI">
+  <pb n="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarati I</orth>
+    <lemma>čarati I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чарати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чаровать, колдовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdrati</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 93: «сербохорв.»; Slovar sloven, jezika I, 276)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>carati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 156)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> производный от <ref type="etymon" target="saga">*сага</ref>, <ref type="etymon" target="sag">*сагъ</ref> (см.), ср. и характер­
+ную именную долготу корневого гласного.</gram>
+  </gramGrp>
+</Entry>

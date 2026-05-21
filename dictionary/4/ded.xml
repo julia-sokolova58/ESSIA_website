@@ -1,0 +1,279 @@
+<Entry xml:id="ded">
+  <pb n="227" end_page="228" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕdъ</orth>
+    <lemma>dĕdъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>^дъ м. р. п&amp;тспос, avus</orth>
+      </form>
+      <sense>
+        <def>дед</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дядо</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дед, старик, тесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>д</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>аду м, р. дед, тесть, старик , дау , дёдо , деда, дёдо м. р. дед, тесть, старик , dadp м. р. дед, свекор , деда ж. р. старшая сестра , деда м. р. дед</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 21; Н. Колев. Говор на с. Страхилово, Свищовско.— БД III, 297)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С Ковачев. Троянският говор. — БД IV, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 167)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 78)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дедо</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дед, дедушка, тесть, старик, дед</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>д</ref>]ед м. р.</orth>
+      </form>
+      <sense>
+        <def>дед, также деду деда (КарациЬ), дёдо, д]ёдоу ласкат. дедушка, свекор , также личное имя собств. Дёдо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>деда</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отец, дед, тесть (Елез. I), деда тесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(LM. 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ded</ref>, род. п. deda м. р.</orth>
+      </form>
+      <sense>
+        <def>дед, ста­ рик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dede</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>парень, мужик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бодуэн. Мате­ риалы I, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>deda</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>старик, дед (Petr Chelcicky Sit viry, конец XV в., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ded</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дед, предок, старик, deda м. р. дедушка, старик, deda ж. р. бабка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dede</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дедушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ded</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дед, старик , также dedo м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 239)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>died</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дед, старик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zed</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дед, старик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziad</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дед, прародитель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 539)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>д</ref>%дъ</orth>
+      </form>
+      <sense>
+        <def>дед , дЪди и отци предки , также в кач-ве личного имени собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в., л. 167; Новг. I л. под 1218 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1214 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 783)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV в., Тупиков I, 197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дед</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отец отца или матери, старик, старый человек, деды предки</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дед</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>знахарь, колдун (смол., калуж., свердл.), черт, домовой (калуж., тул.), старик-нищий (южн.), большой пескарь с усами (новг.) , растение Geranium sanguineum L., герань (курск.), репейник, чертополох (пек., смол., краснояр., Латв. ССР, Лит. ССР, Эст. ССР, брянск., пек.), бодяк полевой (брянск.) , отец отца или матери, (мн.) бабушка и дедушка, предки, старик, водяной , дёдя большой (вят.), лесной дёдя (перм.) леший , деды мн. поминки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 328)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 328)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских го­ воров. «Брянские говоры». Л., 1968, 200—201)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 332)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., пек., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>did</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дед, старик, нищий, чу­ чело на огородах, чтобы отпугивать птиц, растение Girsium lan- ceolatum Scop., сноп соломы или камыша, сложенный так, что dedbnb(jb) половина вершками в одну сторону, а половина в другую, род кушанья, приготовляемого из пшена и муки, didu предки, деды, поминовение усопших на фоминой неделе , деда отец , дёдьо м. р. тоже , дёдо то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 388)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(А. А. Москаленко. Словник д1алектизм1в украшських го- в1рок Одесько! область Одеса, 1958, 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 374)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских го­ воров 419)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзед</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дед</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Название родства, в структурном отношении — редупликация, напоминающая древнейшие звукокомплексы *babay *татау *tata (см. s. vv.), но существенно отличающаяся от них рядом, видимо, более поздних особенностей, а именно: частичный, стертый ха­ рактер редупликации (*de-d-b), формализация грамматич. рода (-о- основа, при морфологически нейтральной в плане грамматич. рода -а- основе слов *татау *tatay *baba)y особый вокализм -ё-. Можно говорить об экспрессивности образования, Ср. греч. TTJ&amp;T] (из *{Wj{bj &lt; и.-е. *dhedhd) 'бабушка'. См. Miklosich 45; Berneker I, 191; Фасмер I, 494; Трубачев. Слав. терм, родства 69; Бурячок. Назви спор1дненост1 i свояцтва в укр. мов1 (Кшв, 1961) 45 и сл.</note>
+</Entry>

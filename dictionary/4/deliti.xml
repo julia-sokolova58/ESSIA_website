@@ -1,0 +1,207 @@
+<Entry xml:id="deliti">
+  <pb n="233" end_page="234" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕliti</orth>
+    <lemma>dĕliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д4лити</ref> {xspt</orth>
+      </form>
+      <sense>
+        <def>Ceiv, dividere делить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>деля</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делить; отделять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дела</ref> то же , дёл</orth>
+      </form>
+      <sense>
+        <def>ъ , дёлим то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов БД III, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дели</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делить, разделить; отделять, отделить, раздавать, раздать, раз­ лучать, разлучить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дщёлити</ref>, дй/елйм</orth>
+      </form>
+      <sense>
+        <def>делить, дёлити, делим, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дйл</ref>&gt;ити</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>de</ref>­ liti</orth>
+      </form>
+      <sense>
+        <def>делить, распределять, уделять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dĕliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>delW</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzelic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zelis</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka SI. II, 1184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dele</ref> 3 л. ед. ч. наст,</orth>
+      </form>
+      <sense>
+        <def>делит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 51, с реконструкцией *deli)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzielic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делить, разделять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 568—570)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>glelec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪлити</ref>, дЪлю</orth>
+      </form>
+      <sense>
+        <def>разделять , наделять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 10; Р. Прав. Влад. Мон.; Кир. Тур. 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1016 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 786)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>делить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разъединять на части; распределять что-либо по частям, разграничивать, отде­ лять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>difidmu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 391)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="defo">*defo</ref> (см.) или, скорее, соотноси­
+тельный с этим последним, поскольку в данном случае глаголь­
+ное слово целиком продолжает определенные дослав, отношения.</gram>
+  </gramGrp>
+  <note>Ср. лит. dailyti 'делить' (см. К. Буга РФВ LXVII, 1912, 236; Он же РФВ LXX, 1913, 103); ср. особенно гот. dailjan, нем. teilen 'делить', кот., подобно слав. *deliti — *delb, соотносятся с именем — герм. *daili-, гот. dails, нем. Тей 'часть, доля' (за­ мечательно отсутствие соотносительного имени в балт.!). Балт., слав, и герм, объединяются вокруг общего *dai-l-, кот. пред­ ставляет собой производное с суфф. -Z- от основы и.-е. *dai-, ср. др.-инд. ddyati 'делить', греч, ЬаЫоЬш то же. То, что некото­ рые предпочитают говорить об и.-е. *dhai-, чтобы объединить балт., слав, и герм, формы как родственные (см. Kluge 2 0 776) или о дублетах и.-е. *dhai- / *dai-, дабы охватить все формы, включая др.-инд. и греч. (Fraenkel I, 80), или же, наконец, ис­ ключать др.-инд. и греч. (см. Stang. Lexikalische Sonderuberein- stimmungen zwischen dem Slav., Bait, und Germ. Oslo—Bergen— Troms0, 1972, 17), отражает в той или иной форме рутинную концепцию герм.-слав. языковых отношений, суть которой выра­ жена в след. словах: «Заимствование герм, гнезда из слав. (Прельвиц, Педерсен) ввиду недостатка аналогичных древних заимствований невероятно» (Berneker I, 195). Вполне логичным в этой связи можно считать возвращение нек. соврем, исследо­ вателей к мысли о заимствовании из слав, в герм. (см. Марты­ нов. Слав.-герм. лексическое взаимодействие древнейшей поры 112 и сл.; Machek 2 117). Можно, наконец, поставить вопрос о за­ имствовании из слав, в балт. ввиду отсутствия в балт. произво- дящей именной формы; говорить о «балто-слав.» *daila- м. р. 'часть' (так см. Trautmann BSW 43) едва ли представляется возможным. Довольно эклектическая позиция в оценке гл. обр. слав.-герм, аспекта проблемы представлена у ряда исследователей, см. Stawski Т, 189; Фасмер I, 496.</note>
+</Entry>

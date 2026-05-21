@@ -1,0 +1,28 @@
+<Entry xml:id="cezati">
+  <pb n="100" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čezati</orth>
+    <lemma>čezati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>čezati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>confici, сникать, помирать от страха, от тоски</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA II, 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Редкая форма, ср. -еще имперфективное<xr type="compare">см. <ref type="etymon" target="jbz-6ezati">*jbz-6ezati</ref>
+    </xr>. По-
+видимому, производно от . По-
+видимому, производно от . По-
+видимому, производно от . По-
+видимому, производно от <xr type="compare">см. <ref type="etymon" target="cezngti">*cezngti</ref>
+    </xr>....</note>
+</Entry>

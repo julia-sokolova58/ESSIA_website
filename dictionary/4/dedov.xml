@@ -1,0 +1,117 @@
+<Entry xml:id="dedov">
+  <pb n="226" end_page="227" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕdovъ</orth>
+    <lemma>dĕdovъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дЛдов</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дедов(ский)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>д</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>адуф, -увъ, прилаг. то же , дёдофу -ва то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дедов</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>djedoe</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>дедов, также дедов, дй- дов (КарапиЬ), дедов, djedoe, дедов, djedoe , также фам. Дедов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>deduu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дедов(ский) 1 f •dedb сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dedouka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бабушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дедов</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дёдовый</ref>, -аяу -ое</orth>
+      </form>
+      <sense>
+        <def>принадлежащий деду , дёдовая неделя родительская, поминаль­ ная неделя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских говоров. — «Брянские говоры». Л., 1968, 201)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(север., зап., Филин 7, 331)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>didiey</ref> -ова, -ове</orth>
+      </form>
+      <sense>
+        <def>дедов, принадлежащий деду</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 389)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж., прилаг., производное с суфф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="dedb">*dedb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

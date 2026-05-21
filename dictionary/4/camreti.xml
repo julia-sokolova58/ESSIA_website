@@ -1,0 +1,60 @@
+<Entry xml:id="camreti">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čamьrĕti</orth>
+    <lemma>čamьrĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чемрёя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хворать, чахнуть, терять силу и свежесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чемрёйем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чахнуть (Трънско, Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чамретъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(безл.: чамра идёт, стоит или чаирйт. Даль 3 IV, 1284)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чаиргти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терять соз­ нание, рассудок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. С. Паламарчук. Словник специф1чно1 лек­ сики гов]рки с. MyciiBKH (Вчорайшенського району, Житомир- сько!* обл.). — «Лексикограф1чний бюлетень» VI, 1958, 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение экспрессивной приставки са-, местоименного про­ исхождения, и гл.<ref type="etymon" target="tgyoi">*тъгёи</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. близкое<xr type="compare">см. <ref type="etymon" target="camariti">*camariti</ref>
+    </xr>. 
+Болг.-вост.-слав. изоглосса.. 
+Болг.-вост.-слав. изоглосса.. 
+Болг.-вост.-слав. изоглосса.. 
+Болг.-вост.-слав. изоглосса.</note>
+</Entry>

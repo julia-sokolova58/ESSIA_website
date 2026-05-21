@@ -1,0 +1,23 @@
+<Entry xml:id="ablonj">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ablonьjь</orth>
+    <lemma>ablonьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jabloni</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблоневый</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилагательное, произведенное с у-овым суффиксом от<ref type="etymon" target="ayop-2">*аЫопъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

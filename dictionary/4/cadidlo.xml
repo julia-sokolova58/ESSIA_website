@@ -1,0 +1,37 @@
+<Entry xml:id="cadidlo">
+  <pb n="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čadidlo</orth>
+    <lemma>čadidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>čadidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>то, что чадит, дымит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cddHlo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приспособление для окуривания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 134)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-idlo</ref>
+      </m> от <ref type="etymon" target="caditi">*caditi</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

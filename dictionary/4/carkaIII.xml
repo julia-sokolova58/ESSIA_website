@@ -1,0 +1,34 @@
+<Entry xml:id="carkaIII">
+  <pb n="26" end_page="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarъka III</orth>
+    <lemma>čarъka III</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ёагка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черточка, тире, старая мера длины</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ciarka</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>черточка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 207)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Уменьшительное производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от <ref type="etymon" target="cara-4">*cara</ref> III (см.).</gram>
+  </gramGrp>
+  <note>Древность проблематична.</note>
+</Entry>

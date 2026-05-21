@@ -1,0 +1,38 @@
+<Entry xml:id="carbaI">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarьba I</orth>
+    <lemma>čarьba I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>сагЪа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колдовство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., RJA I, 893)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>сагЪа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чары, колдовство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, 159)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название действия, производное с суфф.<m type="suffix">
+        <ref>-ъЬа</ref>
+      </m> от гл. <ref type="etymon" target="cariti-3">*cariti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Сербохорв.-словин. (кашубско-словинская) изоглосса. Об этой суффиксальной модели на кашубской почве см. специально М. Ко- rytkowska. Kaszubskie formacje z sufiksem -ba.— «Studia z filologii polskiej i sfowianskiej» 11, 101—105; в общеслав. плане — Orze- chowska 154—156.</note>
+</Entry>

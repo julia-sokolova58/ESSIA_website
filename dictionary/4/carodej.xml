@@ -1,0 +1,162 @@
+<Entry xml:id="carodej">
+  <pb n="24" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarodĕjь</orth>
+    <lemma>čarodĕjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ча</ref>^од^ м. p. incantator</orth>
+      </form>
+      <sense>
+        <def>чародей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl. LP 1110; Sad. 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>carddfej</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA I, 895)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>carode</ref>] м. р.</orth>
+      </form>
+      <sense>
+        <def>чародей, колдун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 93, с пометой: ст.-слав.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>carode</ref>]</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Sbornik Krumlovsky, 1 четв. XV в.: Auguratricis czarodieije. Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>carodej</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чародей, колдун, чудотворец</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>carode</ref>] м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 192: «книжн.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czarodziej</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чародей, маг; чернокнижник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чародеи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>волшебник, колдун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г., Срезневский III, 1472)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чародей</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарадзёй</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чародей, волшебник .—Сюда же вторичные суффиксальные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 1011; Байкоу — Некраш. 343)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чародеец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чародей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>carodejec</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Czaroydyeyczi 'malefici', Bible Olomoucka 1417 г. Ст.-чеш., Прага; Gebauer I, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>carodejnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чародей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Comenii janua linguarum. Jungmann I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. (<ref>гуцул</ref>.) черед</orth>
+      </form>
+      <sense>
+        <def>Ыники чародеи, колдуны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. В. Ко- билянський. Деяю сх1днокарпатсьш арха1зми та 1сторизми укра- lHCbKOi мови. — «Мовознавство» 1967, № 6, 53; Гринченко: чаро- дтник)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>c</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>arodenica ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ty hromska c'arodenico: Lam- precht. Slovn. stfedoopav. 28)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="cara-3">*cara</ref>&gt; <ref type="etymon" target="sag-3">*сагъ</ref> (см.) и <ref type="etymon" target="dejati">*dejati</ref> (см.); имя деятеля.</gram>
+  </gramGrp>
+</Entry>

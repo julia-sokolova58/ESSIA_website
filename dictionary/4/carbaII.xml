@@ -1,0 +1,56 @@
+<Entry xml:id="carbaII">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarьba II</orth>
+    <lemma>čarьba II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>carba</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>мазня, пачкотня .—О более широком распространении имени сви­ детельствуют глагольные производные:</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 260; Kott I, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>carbati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать, марать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>carbaV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ciarbaV</ref> , carbaV то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 192)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъЬа</ref>
+      </m> от гл. <ref type="etymon" target="cariti-4">*cariti</ref> II (см.).</gram>
+  </gramGrp>
+</Entry>

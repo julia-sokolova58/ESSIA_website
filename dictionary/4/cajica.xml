@@ -1,0 +1,54 @@
+<Entry xml:id="cajica">
+  <pb n="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čajica</orth>
+    <lemma>čajica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>cdjca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болотная птица, отличающаяся блеющим голосом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ccoica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>чибис , др .-русск. чаща название птицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz, Pomor. I, 117)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. плк. Игор., Срезневский III, 1471)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чайца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чайка , цёица ж. р. чайка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 186)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., Опыт 252)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от основы <ref type="etymon" target="caja">* caja</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

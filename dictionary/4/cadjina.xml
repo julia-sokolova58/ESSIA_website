@@ -1,0 +1,29 @@
+<Entry xml:id="cadjina">
+  <pb n="9" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čad(j)ina</orth>
+    <lemma>čad(j)ina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>cajlna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>туманная и дождливая осенняя погода , стар, cadine мн. ч. ж. р. пар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pal. 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVII—XVIII вв., RJA I, 877—878)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от оснозы <ref type="etymon" target="cadj--2">*cad(j)-</ref> (см. выше).</gram>
+  </gramGrp>
+</Entry>

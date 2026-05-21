@@ -1,0 +1,380 @@
+<Entry xml:id="devetnostodevesto">
+  <pb n="220" end_page="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*devę(t)nosъto/*devęsъto?</orth>
+    <lemma>devę(t)nosъto/*devęsъto?</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dev§sbto</orth>
+    <lemma>dev§sbto</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>dziewiftnosto</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1420 г., Ky- рашкевич, ниже)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>девАносто</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>nonaginta , девАсто девяносто</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грам. Бенк. 1398 г.; Новг. IV л. под 1266 г.; Псков. I л. под 1265 г., Срез­ невский I, 650)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Stang, Urk. Polozk 138; «. . .Die Form ist mir sonst unbekannU)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>девяносто</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девять десятков, сто без десяти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1053)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дев</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>янбсто, род. п. -та девяносто</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 387)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзевянбста</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девяносто</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. диалектизм. Ср. лат. nonaginta, греч. e v s v T p c o v x a , гот. niuntehund 'девяносто' &lt; и.-е. диал. *neuenekmta (с видоизменениями по языкам). Возм., отражает своеобразный «девятиричный» счет, мыслимый как бы на фоне десятиричного, откуда наиболее ве­ роятное истолкование *neuenelcmta или *neuend-kmta как 'девяти- ричная сотня', «малая сотня», т. е. «сотня» из десяти девяток, в отличие, напр., от «большой сотни» (так у германцев обозна­ чалось число 120). Ср. и структуру гот. niuntEhund «девятная сотня». Соответственно может быть осмыслено и слав. *deveno- sbto (если иметь в виду первонач. консонантую основу *dev$,<xr type="compare">см. <ref type="etymon" target="devetb">*devetb</ref>
+    </xr>) 
+или *devetno-sbto 
+(также от консонантного, 
+расширенного *devet-, с упрощением -tn-^&gt;-n-). 
+Связь слав, числ-
+ного с и.-е. прототипом просматривается, несмотря на иннова­
+ционные перестройки. Принципиально сомневаться в возможности 
+сохранения и.-е. *neuenefcmta 
+только в вост.-слав, (ср., впрочем, 
+ст.-польск.!) было бы предвзятостью. Ареальное правдоподобие этого 
+(сохранность архаич. типа *deve(t)nosbto / *neuenekmta 
+на перифе­
+рии, при развитии инновационного 
+типа *dev$tb 
+desetb / *пеип 
+dehmtom в центре, в т. ч.—в зап.-слав, и ю.-слав.) подтверждает 
+возможность изложенного выше объяснения, принимаемого, с отли­
+чиями, нек. авторами (Станг, Вайян, ниже). Прочие этимологии — 
+из *devetb do sbta, 
+*des$tb do sbta и под. — наивные конструкции. 
+Излишня, как явствует из сказанного, и и.-е. реконструкция *пеиепэ 
+dkmtd 
+'девять десятков'. Балт. языки знают числ. '90' уже но­
+вого типа: лит. devynesdesimt. 
+См. прилагаемую карту-схему. 
+Из литер.: F. Prusik KZ XXXV, 1899, 598—599; Berneker I, 
+189; Преобр. I, 176; И. Эндзелин LP 1, 1949, 3; Фасмер I, 492; 
+A Vaillant BSL 46, 1950, 178; Vaillant. Gramm. comparee II, 2, 
+642, 645; J. Otrejbski «Die Sprache» X, 1964, 128 и сл.; Chr. 
+S. Stang. Russisch девяносто. 
+«Lingua viget. Commentationes sla-
+vicaein honorem V. Kiparsky» (Helsinki, 1965) 124—129; C. Haeb-
+ler. Altruss. deujanosto — Kontinnente einer Lehnpragung nach. got. 
+niuntehund. — «Anzeiger fur slavische Philologie» I, 1966, 1 исл.; 
+W, Kuraszkiewicz «Studia linguistica Slavica Baltica C.-O. Falk
+oblata» (Lund, 1966) 93; V. Pisani. Zu russ. deujanosto 'neunzig'.—&lt; 
+«Studia indoeuropejskie», 1973, 171—173. 
+*devčsil
+,b: болг. девесйл м. p. 'растение девясил' (БТР, Геров), диал. 
+девесёл' м. р. то же (Стоиков. Банат. 67), дивисйл м. р. 'растение, 
+листья которого служат приправой' (Н. Ковачев. Севлиевско. — 
+БД V, 17), дивисйл\ 
+дивидисйл
+&gt; м. р. то же (С. Ковачев. Троян-
+ският говор. — БД IV, 198), сербохорв. девесйл м. р., девёсйл&gt;е 
+ср. р. 'какая-то трава' КарациЬ, devest}, м. p., devesl\e ср. р. 
+'Ferula L., Seseli rigidum W. К., Atropa', «какая-то трава, но ав­
+торы расходятся в вопросе, какая именно» (RJA И, 362), девёсил 
+м. р. 'растение Seseli rigidum' (РСА IV, 135), дивёсиле 
+ср. р. 
+(РСА IV, 272), сюда же производное девёсйл&gt;ка ж. p. 'Seseli monta-
+num' (РСА IV, 135), далее — преобразования девёсин м. р. 'белена', 
+'валериана Valeriana officinalis' (там же), девёсшъ м. р. 'растение 
+Seseli tortuosum', 'Peucedanum officinale' (РСА IV, 135), дивёсео, 
+род. п. -села, м. р. 'какая-то трава' (РСА IV, 272), давасил м. р. 
+'Seseli rigidum' (РСА IV, 5), деветдсил м. р. (РСА IV, 138), ст.-
+чеш. devesil м. p. 'omastellum, aggramen, cardisonum, cardopacia, 
+tiermodactylus' 
+(в глоссах, Ст.-чеш., Прага), чеш. devetsil 
+м. р. 
+'растение Petasites officinalis', диал. devesiV, также devasilie, 
+de-
+vesile 'Tussilago farfara мать-и-мачеха' (Bartos. Slov. 56), deuasiu 
+м. p. (Malina. Mistf. 19), devesel, diuisel (Kubin, Cech. klad. 172), 
+divosil м. p. (Kott. Dod. k Bart. 15), слвц. devatfsil, диал. devdsel 
+(Kalal 92), devdcil, d'evacil (Habovstiak. Orav. 171), польск. стар. 
+dziewipsily dziewipcsit, dziewipsiot м. p. 'великан' (Warsz. I, 652), 
+dziewipcsit м. p. 'растение Carlina' (Dorosz. II, 598), русск. девя­
+сил м. p. 'растение Clematis recta L., сем. лютиковых, ломонос 
+прямой' (курск.), 'растение Betonica vulgaris L., сем. губоцветных' 
+(курск.) (Филин 7, 322), девясила м. и ж. р. 'верзила' (твер., 
+там же), дивясйль м. р. 'растение с широкими листьями, вроде ло­
+пуха, с желтыми цветами' (каш., Опыт словаря говоров Кали­
+нинской области 5), укр. дев'ясйл м. р. 'растение Inula helenium, 
+девесйл' (Гринченко I, 365), блр. дзЬвасы м. р. 'девясил'.) 
+или *devetno-sbto 
+(также от консонантного, 
+расширенного *devet-, с упрощением -tn-^&gt;-n-). 
+Связь слав, числ-
+ного с и.-е. прототипом просматривается, несмотря на иннова­
+ционные перестройки. Принципиально сомневаться в возможности 
+сохранения и.-е. *neuenefcmta 
+только в вост.-слав, (ср., впрочем, 
+ст.-польск.!) было бы предвзятостью. Ареальное правдоподобие этого 
+(сохранность архаич. типа *deve(t)nosbto / *neuenekmta 
+на перифе­
+рии, при развитии инновационного 
+типа *dev$tb 
+desetb / *пеип 
+dehmtom в центре, в т. ч.—в зап.-слав, и ю.-слав.) подтверждает 
+возможность изложенного выше объяснения, принимаемого, с отли­
+чиями, нек. авторами (Станг, Вайян, ниже). Прочие этимологии — 
+из *devetb do sbta, 
+*des$tb do sbta и под. — наивные конструкции. 
+Излишня, как явствует из сказанного, и и.-е. реконструкция *пеиепэ 
+dkmtd 
+'девять десятков'. Балт. языки знают числ. '90' уже но­
+вого типа: лит. devynesdesimt. 
+См. прилагаемую карту-схему. 
+Из литер.: F. Prusik KZ XXXV, 1899, 598—599; Berneker I, 
+189; Преобр. I, 176; И. Эндзелин LP 1, 1949, 3; Фасмер I, 492; 
+A Vaillant BSL 46, 1950, 178; Vaillant. Gramm. comparee II, 2, 
+642, 645; J. Otrejbski «Die Sprache» X, 1964, 128 и сл.; Chr. 
+S. Stang. Russisch девяносто. 
+«Lingua viget. Commentationes sla-
+vicaein honorem V. Kiparsky» (Helsinki, 1965) 124—129; C. Haeb-
+ler. Altruss. deujanosto — Kontinnente einer Lehnpragung nach. got. 
+niuntehund. — «Anzeiger fur slavische Philologie» I, 1966, 1 исл.; 
+W, Kuraszkiewicz «Studia linguistica Slavica Baltica C.-O. Falk
+oblata» (Lund, 1966) 93; V. Pisani. Zu russ. deujanosto 'neunzig'.—&lt; 
+«Studia indoeuropejskie», 1973, 171—173. 
+*devčsil
+,b: болг. девесйл м. p. 'растение девясил' (БТР, Геров), диал. 
+девесёл' м. р. то же (Стоиков. Банат. 67), дивисйл м. р. 'растение, 
+листья которого служат приправой' (Н. Ковачев. Севлиевско. — 
+БД V, 17), дивисйл\ 
+дивидисйл
+&gt; м. р. то же (С. Ковачев. Троян-
+ският говор. — БД IV, 198), сербохорв. девесйл м. р., девёсйл&gt;е 
+ср. р. 'какая-то трава' КарациЬ, devest}, м. p., devesl\e ср. р. 
+'Ferula L., Seseli rigidum W. К., Atropa', «какая-то трава, но ав­
+торы расходятся в вопросе, какая именно» (RJA И, 362), девёсил 
+м. р. 'растение Seseli rigidum' (РСА IV, 135), дивёсиле 
+ср. р. 
+(РСА IV, 272), сюда же производное девёсйл&gt;ка ж. p. 'Seseli monta-
+num' (РСА IV, 135), далее — преобразования девёсин м. р. 'белена', 
+'валериана Valeriana officinalis' (там же), девёсшъ м. р. 'растение 
+Seseli tortuosum', 'Peucedanum officinale' (РСА IV, 135), дивёсео, 
+род. п. -села, м. р. 'какая-то трава' (РСА IV, 272), давасил м. р. 
+'Seseli rigidum' (РСА IV, 5), деветдсил м. р. (РСА IV, 138), ст.-
+чеш. devesil м. p. 'omastellum, aggramen, cardisonum, cardopacia, 
+tiermodactylus' 
+(в глоссах, Ст.-чеш., Прага), чеш. devetsil 
+м. р. 
+'растение Petasites officinalis', диал. devesiV, также devasilie, 
+de-
+vesile 'Tussilago farfara мать-и-мачеха' (Bartos. Slov. 56), deuasiu 
+м. p. (Malina. Mistf. 19), devesel, diuisel (Kubin, Cech. klad. 172), 
+divosil м. p. (Kott. Dod. k Bart. 15), слвц. devatfsil, диал. devdsel 
+(Kalal 92), devdcil, d'evacil (Habovstiak. Orav. 171), польск. стар. 
+dziewipsily dziewipcsit, dziewipsiot м. p. 'великан' (Warsz. I, 652), 
+dziewipcsit м. p. 'растение Carlina' (Dorosz. II, 598), русск. девя­
+сил м. p. 'растение Clematis recta L., сем. лютиковых, ломонос 
+прямой' (курск.), 'растение Betonica vulgaris L., сем. губоцветных' 
+(курск.) (Филин 7, 322), девясила м. и ж. р. 'верзила' (твер., 
+там же), дивясйль м. р. 'растение с широкими листьями, вроде ло­
+пуха, с желтыми цветами' (каш., Опыт словаря говоров Кали­
+нинской области 5), укр. дев'ясйл м. р. 'растение Inula helenium, 
+девесйл' (Гринченко I, 365), блр. дзЬвасы м. р. 'девясил'.) 
+или *devetno-sbto 
+(также от консонантного, 
+расширенного *devet-, с упрощением -tn-^&gt;-n-). 
+Связь слав, числ-
+ного с и.-е. прототипом просматривается, несмотря на иннова­
+ционные перестройки. Принципиально сомневаться в возможности 
+сохранения и.-е. *neuenefcmta 
+только в вост.-слав, (ср., впрочем, 
+ст.-польск.!) было бы предвзятостью. Ареальное правдоподобие этого 
+(сохранность архаич. типа *deve(t)nosbto / *neuenekmta 
+на перифе­
+рии, при развитии инновационного 
+типа *dev$tb 
+desetb / *пеип 
+dehmtom в центре, в т. ч.—в зап.-слав, и ю.-слав.) подтверждает 
+возможность изложенного выше объяснения, принимаемого, с отли­
+чиями, нек. авторами (Станг, Вайян, ниже). Прочие этимологии — 
+из *devetb do sbta, 
+*des$tb do sbta и под. — наивные конструкции. 
+Излишня, как явствует из сказанного, и и.-е. реконструкция *пеиепэ 
+dkmtd 
+'девять десятков'. Балт. языки знают числ. '90' уже но­
+вого типа: лит. devynesdesimt. 
+См. прилагаемую карту-схему. 
+Из литер.: F. Prusik KZ XXXV, 1899, 598—599; Berneker I, 
+189; Преобр. I, 176; И. Эндзелин LP 1, 1949, 3; Фасмер I, 492; 
+A Vaillant BSL 46, 1950, 178; Vaillant. Gramm. comparee II, 2, 
+642, 645; J. Otrejbski «Die Sprache» X, 1964, 128 и сл.; Chr. 
+S. Stang. Russisch девяносто. 
+«Lingua viget. Commentationes sla-
+vicaein honorem V. Kiparsky» (Helsinki, 1965) 124—129; C. Haeb-
+ler. Altruss. deujanosto — Kontinnente einer Lehnpragung nach. got. 
+niuntehund. — «Anzeiger fur slavische Philologie» I, 1966, 1 исл.; 
+W, Kuraszkiewicz «Studia linguistica Slavica Baltica C.-O. Falk
+oblata» (Lund, 1966) 93; V. Pisani. Zu russ. deujanosto 'neunzig'.—&lt; 
+«Studia indoeuropejskie», 1973, 171—173. 
+*devčsil
+,b: болг. девесйл м. p. 'растение девясил' (БТР, Геров), диал. 
+девесёл' м. р. то же (Стоиков. Банат. 67), дивисйл м. р. 'растение, 
+листья которого служат приправой' (Н. Ковачев. Севлиевско. — 
+БД V, 17), дивисйл\ 
+дивидисйл
+&gt; м. р. то же (С. Ковачев. Троян-
+ският говор. — БД IV, 198), сербохорв. девесйл м. р., девёсйл&gt;е 
+ср. р. 'какая-то трава' КарациЬ, devest}, м. p., devesl\e ср. р. 
+'Ferula L., Seseli rigidum W. К., Atropa', «какая-то трава, но ав­
+торы расходятся в вопросе, какая именно» (RJA И, 362), девёсил 
+м. р. 'растение Seseli rigidum' (РСА IV, 135), дивёсиле 
+ср. р. 
+(РСА IV, 272), сюда же производное девёсйл&gt;ка ж. p. 'Seseli monta-
+num' (РСА IV, 135), далее — преобразования девёсин м. р. 'белена', 
+'валериана Valeriana officinalis' (там же), девёсшъ м. р. 'растение 
+Seseli tortuosum', 'Peucedanum officinale' (РСА IV, 135), дивёсео, 
+род. п. -села, м. р. 'какая-то трава' (РСА IV, 272), давасил м. р. 
+'Seseli rigidum' (РСА IV, 5), деветдсил м. р. (РСА IV, 138), ст.-
+чеш. devesil м. p. 'omastellum, aggramen, cardisonum, cardopacia, 
+tiermodactylus' 
+(в глоссах, Ст.-чеш., Прага), чеш. devetsil 
+м. р. 
+'растение Petasites officinalis', диал. devesiV, также devasilie, 
+de-
+vesile 'Tussilago farfara мать-и-мачеха' (Bartos. Slov. 56), deuasiu 
+м. p. (Malina. Mistf. 19), devesel, diuisel (Kubin, Cech. klad. 172), 
+divosil м. p. (Kott. Dod. k Bart. 15), слвц. devatfsil, диал. devdsel 
+(Kalal 92), devdcil, d'evacil (Habovstiak. Orav. 171), польск. стар. 
+dziewipsily dziewipcsit, dziewipsiot м. p. 'великан' (Warsz. I, 652), 
+dziewipcsit м. p. 'растение Carlina' (Dorosz. II, 598), русск. девя­
+сил м. p. 'растение Clematis recta L., сем. лютиковых, ломонос 
+прямой' (курск.), 'растение Betonica vulgaris L., сем. губоцветных' 
+(курск.) (Филин 7, 322), девясила м. и ж. р. 'верзила' (твер., 
+там же), дивясйль м. р. 'растение с широкими листьями, вроде ло­
+пуха, с желтыми цветами' (каш., Опыт словаря говоров Кали­
+нинской области 5), укр. дев'ясйл м. р. 'растение Inula helenium, 
+девесйл' (Гринченко I, 365), блр. дзЬвасы м. р. 'девясил'.) 
+или *devetno-sbto 
+(также от консонантного, 
+расширенного *devet-, с упрощением -tn-^&gt;-n-). 
+Связь слав, числ-
+ного с и.-е. прототипом просматривается, несмотря на иннова­
+ционные перестройки. Принципиально сомневаться в возможности 
+сохранения и.-е. *neuenefcmta 
+только в вост.-слав, (ср., впрочем, 
+ст.-польск.!) было бы предвзятостью. Ареальное правдоподобие этого 
+(сохранность архаич. типа *deve(t)nosbto / *neuenekmta 
+на перифе­
+рии, при развитии инновационного 
+типа *dev$tb 
+desetb / *пеип 
+dehmtom в центре, в т. ч.—в зап.-слав, и ю.-слав.) подтверждает 
+возможность изложенного выше объяснения, принимаемого, с отли­
+чиями, нек. авторами (Станг, Вайян, ниже). Прочие этимологии — 
+из *devetb do sbta, 
+*des$tb do sbta и под. — наивные конструкции. 
+Излишня, как явствует из сказанного, и и.-е. реконструкция *пеиепэ 
+dkmtd 
+'девять десятков'. Балт. языки знают числ. '90' уже но­
+вого типа: лит. devynesdesimt. 
+См. прилагаемую карту-схему. 
+Из литер.: F. Prusik KZ XXXV, 1899, 598—599; Berneker I, 
+189; Преобр. I, 176; И. Эндзелин LP 1, 1949, 3; Фасмер I, 492; 
+A Vaillant BSL 46, 1950, 178; Vaillant. Gramm. comparee II, 2, 
+642, 645; J. Otrejbski «Die Sprache» X, 1964, 128 и сл.; Chr. 
+S. Stang. Russisch девяносто. 
+«Lingua viget. Commentationes sla-
+vicaein honorem V. Kiparsky» (Helsinki, 1965) 124—129; C. Haeb-
+ler. Altruss. deujanosto — Kontinnente einer Lehnpragung nach. got. 
+niuntehund. — «Anzeiger fur slavische Philologie» I, 1966, 1 исл.; 
+W, Kuraszkiewicz «Studia linguistica Slavica Baltica C.-O. Falk
+oblata» (Lund, 1966) 93; V. Pisani. Zu russ. deujanosto 'neunzig'.—&lt; 
+«Studia indoeuropejskie», 1973, 171—173. 
+*devčsil
+,b: болг. девесйл м. p. 'растение девясил' (БТР, Геров), диал. 
+девесёл' м. р. то же (Стоиков. Банат. 67), дивисйл м. р. 'растение, 
+листья которого служат приправой' (Н. Ковачев. Севлиевско. — 
+БД V, 17), дивисйл\ 
+дивидисйл
+&gt; м. р. то же (С. Ковачев. Троян-
+ският говор. — БД IV, 198), сербохорв. девесйл м. р., девёсйл&gt;е 
+ср. р. 'какая-то трава' КарациЬ, devest}, м. p., devesl\e ср. р. 
+'Ferula L., Seseli rigidum W. К., Atropa', «какая-то трава, но ав­
+торы расходятся в вопросе, какая именно» (RJA И, 362), девёсил 
+м. р. 'растение Seseli rigidum' (РСА IV, 135), дивёсиле 
+ср. р. 
+(РСА IV, 272), сюда же производное девёсйл&gt;ка ж. p. 'Seseli monta-
+num' (РСА IV, 135), далее — преобразования девёсин м. р. 'белена', 
+'валериана Valeriana officinalis' (там же), девёсшъ м. р. 'растение 
+Seseli tortuosum', 'Peucedanum officinale' (РСА IV, 135), дивёсео, 
+род. п. -села, м. р. 'какая-то трава' (РСА IV, 272), давасил м. р. 
+'Seseli rigidum' (РСА IV, 5), деветдсил м. р. (РСА IV, 138), ст.-
+чеш. devesil м. p. 'omastellum, aggramen, cardisonum, cardopacia, 
+tiermodactylus' 
+(в глоссах, Ст.-чеш., Прага), чеш. devetsil 
+м. р. 
+'растение Petasites officinalis', диал. devesiV, также devasilie, 
+de-
+vesile 'Tussilago farfara мать-и-мачеха' (Bartos. Slov. 56), deuasiu 
+м. p. (Malina. Mistf. 19), devesel, diuisel (Kubin, Cech. klad. 172), 
+divosil м. p. (Kott. Dod. k Bart. 15), слвц. devatfsil, диал. devdsel 
+(Kalal 92), devdcil, d'evacil (Habovstiak. Orav. 171), польск. стар. 
+dziewipsily dziewipcsit, dziewipsiot м. p. 'великан' (Warsz. I, 652), 
+dziewipcsit м. p. 'растение Carlina' (Dorosz. II, 598), русск. девя­
+сил м. p. 'растение Clematis recta L., сем. лютиковых, ломонос 
+прямой' (курск.), 'растение Betonica vulgaris L., сем. губоцветных' 
+(курск.) (Филин 7, 322), девясила м. и ж. р. 'верзила' (твер., 
+там же), дивясйль м. р. 'растение с широкими листьями, вроде ло­
+пуха, с желтыми цветами' (каш., Опыт словаря говоров Кали­
+нинской области 5), укр. дев'ясйл м. р. 'растение Inula helenium, 
+девесйл' (Гринченко I, 365), блр. дзЬвасы м. р. 'девясил'.</note>
+  <gramGrp>
+    <gram>Стар, сложение еще консонантной основы числ-оного<ref type="etymon" target="dev">*dev</ref>$t-
+или (до -^-расширения) 
+<ref type="etymon" target="dev-2">*dev</ref>$ (<ref type="etymon" target="deven-">*deven-)</ref> (см. <ref type="etymon" target="dev-3">*dev</ref>?tb) и основы 
+имени <ref type="etymon" target="sila">*sila</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 189; Фасмер I, 491 (там же прочая литер.). В связи с остатками основы на согласный<xr type="compare">ср. еще <ref type="etymon" target="dev">*dev$</ref>
+    </xr>(t)nos^o, 
+а также приводимую там литер.(t)nos^o, 
+а также приводимую там литер.(t)nos^o, 
+а также приводимую там литер.(t)nos^o, 
+а также приводимую там литер.</note>
+</Entry>

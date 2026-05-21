@@ -1,0 +1,108 @@
+<Entry xml:id="desnj">
+  <pb n="218" end_page="219" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*desnъ(jь)</orth>
+    <lemma>desnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дбгыъ</ref>, прилаг. &lt;Mji6&lt;;, dexter</orth>
+      </form>
+      <sense>
+        <def>правый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дёсен</ref>, дЛсна, дЛсно, прилаг.</orth>
+      </form>
+      <sense>
+        <def>правый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Младенов БТР; Геров: Ысный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дёсен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>правый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>десен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>правый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёснй</ref>, -о то же, desan, desna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>пра­ вый , дёснй, дёснй правый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 345—347)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>desen</ref>, -sna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>правый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>десныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>правый , дестыи то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Панд. Ант. XI в.; Нест. Бор. Гл. 38, *deSevT»jq Срезневский I, 655—656)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Георг. AM. XV в., Срез невский I, 656)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Типично ю.-слав. слово, древний праслав. диалектизм, неиз­ вестный зап.-слав, и вост.-слав. языкам. Название реки Десна у вост. славян не может объясняться как первонач. 'правая' (якобы эвфемистически о левом притоке Днепра, см. Фасмер I, 506), поскольку как раз вост. славяне не имели соответствующего апел- латива; впрочем, целесообразно не отметать начисто всякую связь Десна: *desnb, как это делал Соболевский (ИОРЯС XXIII, 1918, 183—186), а допускать здесь вторичную славянизацию родствен­ ного балт. названия со знач. 'правая (река)' (см. О. Н. Труба- чев ВЯ 1974, № 6, 49). Праслав. *desnb родственно др.-инд. ddksina- 'правый; южный', авест. dasina- 'правый', лит. desinas 'правый', desine 'правая рука' (и.-е. *de!csino-); далее, с другими суффиксами, — греч. 8е- lioc, лат. dexter, греч. Зг^тербс, гот. taihswa, др.-ирл. dess. Считать, что цслав. дестъ, словен. desten отражают какое-то более первоначальное *destbnb, откуда затем desrtb (так см. F. Ramovs. Csl. destb: slov. destdn.—CSJZ III, 1921,43—45; Bezlaj. Etim. slovar. Любляна, рукоп.), нет достаточных оснований.</note>
+  <gramGrp>
+    <gram>Обычно считаются этимологически родственными<ref type="etymon" target="desnb-2">*desnb</ref> и гл. 
+<ref type="etymon" target="desiti">*desiti</ref> (см.), вернее—и.-е. <ref type="etymon" target="de">*de</ref>!csinos и <ref type="etymon" target="deks-">*deks-</ref> 'принимать и т.п.' 
+Любопытно при этом отметить, что балт. языки имеют произ­
+водное <ref type="etymon" target="deksinos">*deksinos</ref>, но не обнаруживают следов глагольной основы 
+<ref type="etymon" target="deJcs-">*deJcs-</ref>, тогда как слав, языки сохранили и то и другое (обычно 
+внимание исследователей фиксируется на обратных случаях, когда 
+балт. языки имеют и производное имя и глагол, а славянские — 
+только производное, напр. лит. rinkti — гапка: слав. <ref type="etymon" target="guka">*гука</ref>; на по­
+добном распределении, кстати, строятся довольно рутинные вы­
+воды о преимущественном архаизме балт. языков).</gram>
+  </gramGrp>
+  <note>См. Miklosich 43; М. Bloomfield AJPh XII, 1891, 14; С. С. Ub- lenbeck AfslPh XVI, 1894, 374; N. van Wijk. Abg. desrtb, Ыёъпъ, z n a t u - AfslPh XXXVI, 1916 (цит. no: JO V, 1925—1926, 320— 321); G. S. Lane «Language» 9, 1933, 261; Berneker I, 187; Георгиев ВЕР V, 346; Skok. Etim. rjecn. I, 385; Фасмер I, 506 — 507; Fraenkel I, 91.</note>
+</Entry>

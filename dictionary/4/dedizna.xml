@@ -1,0 +1,27 @@
+<Entry xml:id="dedizna">
+  <pb n="226" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕdizna</orth>
+    <lemma>dĕdizna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>д1дйзна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>имение, наследованное от предков; в частности наследство от деда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 388)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вар. (вторичный?) к<xr type="compare">см. <ref type="etymon" target="dedina">*dedina</ref>
+    </xr> с суфф. -izna. 
+Далее  с суфф. -izna. 
+Далее  с суфф. -izna. 
+Далее  с суфф. -izna. 
+Далее <xr type="compare">см. <ref type="etymon" target="dedb">*dedb</ref>
+    </xr>....</note>
+</Entry>

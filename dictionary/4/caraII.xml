@@ -1,0 +1,63 @@
+<Entry xml:id="caraII">
+  <pb n="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čara II</orth>
+    <lemma>čara II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>сага</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чары, колдовство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., в сло­ варях Вранчича, Белостенца, Стулли, RJA I, 891)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сага</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чары, колдовство, колдунья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>card</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чары</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta IV, 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чара</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кол­ довство . |Этимологически тождественно авест. сага- ж. р. средство, про­ изводному от и.-е. *№ег- делать. См. Berneker I, 137. Далее ср. др.-инд. karoti делает, лит. kereti околдовывать, заворажи­ вать. См. A. Pictet KZ V, 1856, 35; специально см. Н. Osthoff</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пайс. сб. Сл. Моис. л. 198 и др., Срезневский III, 1471)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Allerhand Zauber etymologisch beleuchtet. — BB XXIV, 1899, 109 и сл. (приводит семантич. аналогии типа 'делать' &gt; 'колдовать'); А. Потебня РФВ III, 1880, 172—173; Г. Ильинский РФВ LXI, 1909, 235—239 (с отличиями в толковании); Trautmann BSW 127; Е. Fraenkel «Festschrift fur D. Cyzevskyj» 113—115 (относит сюда лит. kurti 'создавать, творить, строить', ср., вирочехМ, уже Berneker, там же); Pokorny I, 641—642; Фасмер IV, 317. Специ­ ально против сближения с греч. тёрад 'чудо, чудовище; предзна­ менование' см. Frisk II, 878.</note>
+  <gramGrp>
+    <gram>Обширное слав, глагольно-именное гнездо с корнем<ref type="etymon" target="sag-sm">*саг-(см</ref>. 
+<ref type="etymon" target="carati">*carati</ref> I, <ref type="etymon" target="cariti">*cariti</ref> I, <ref type="etymon" target="carovati">*carovati</ref> и др. ниже) обобщило производный, 
+именной вокализм корня -в- (балтийский, напротив, обобщил крат­
+кое -е- как в глаголе, так и в имени), при первонач. отношениях 
+гл. <ref type="etymon" target="keg-">*кег-/</ref>
+      <ref type="etymon" target="kg-">*кг-</ref> и имени <ref type="etymon" target="kyog-9">*кёг-9</ref> как они отражены, напр., в индо-ир.</gram>
+  </gramGrp>
+</Entry>

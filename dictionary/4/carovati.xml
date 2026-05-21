@@ -1,0 +1,148 @@
+<Entry xml:id="carovati">
+  <pb n="24" end_page="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarovati</orth>
+    <lemma>čarovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чарувам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворожить, волхвовать, гадать, колдовать и пр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>čarovati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чаровать, колдовать , сюда же чваровати</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в словаре Стулли, RJA I, 895)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>čarovati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чаровать, колдовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 93: «ст.-слав.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>čarovati</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>carovaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чаровать, колдовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czarowad</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чаровати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать, ворожить , очаровывать, привлекать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1471)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. устар. <ref>чаровать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чаровать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прельщать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Опыт 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чарувати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать, очаровывать IV, 445)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко с а г б у ь й ъ ^ ь )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чараваць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чаровать, колдовать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>чараваць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 342)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, производный от имени <ref type="etymon" target="saga-3">*сага</ref> или <ref type="etymon" target="sag-4">*сагъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

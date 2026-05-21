@@ -1,0 +1,68 @@
+<Entry xml:id="capI">
+  <pb n="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čapъ I</orth>
+    <lemma>čapъ I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чап</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>деревянный бондарный инструмент для измерения диаметра и окружности сосуда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>чап</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>часть ткацкого станка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cap</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ciconia, ibis (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cap</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>аист Ciconia, сор м. р. птица Furnia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>clap</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>аист</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 74)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Отглагольное производное от<xr type="compare">см. <ref type="etymon" target="6apati">*6apati</ref>
+    </xr>. Болг. и макед. слова 
+имеют типично переносные значения. . Болг. и макед. слова 
+имеют типично переносные значения. . Болг. и макед. слова 
+имеют типично переносные значения. . Болг. и макед. слова 
+имеют типично переносные значения. <xr type="compare">Ср. еще <ref type="etymon" target="capja">*capja</ref>
+    </xr> (см.). (см.). (см.). (см.).</note>
+</Entry>

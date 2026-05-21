@@ -1,0 +1,179 @@
+<Entry xml:id="dedina">
+  <pb n="225" end_page="226" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕdina</orth>
+    <lemma>dĕdina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>djedina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>наследство, достояние, также дедина ж. р. , отсюда суффиксальное производное дёдйнство то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 436)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dĕdina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>наследство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dĕdina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наследственное имение (земля), fundi paterni, rura paterna, fundus hereditarius, hereditas</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dĕdina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>наследство, имение, земельное владение, пашня, поле, земля, деревня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dĕdina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дере­ венская площадь , одно H3 v крупных и лучших полей близ двора , dedina ж. p. деревня , gegina ж. p. то же , dedina ж. p. то же , деревня, центральная часть деревни , сюда и суффиксальное производное dedinec м. р. деревня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 14)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. II, 155)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.- bucov. 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(мор., Kott I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dĕdina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деревня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>zezina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>(потомственное) владение общества пче­ ловодов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. И, 1191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziedzina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>область, отрасль, наследное владение, имение, земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 564)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дядина</ref> ^дедовское владение, наследие; дедовский обычай, закон</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Переясл. л. под 1169 г.; Псков. I л. под 1327 г.; Новг. 1 л. под 1333 г.; Срезневский 1, 782)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дедина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>происхождение по дедовской линии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Филин 7, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дедина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>село , сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. §<ref>з1</ref>§згнок, род. п. - ш , м. р.</orth>
+      </form>
+      <sense>
+        <def>двор , д1дйнець, род. п. -нця, м. р. двор . — Ср. еще производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Лисенко. Словник спец1ф!чно1 лексики правобережно!' Черкащини. — «Леке, бюл.» VI, 1958, И)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, *~388)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дединйаж</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>дедовское на­ следство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 97)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. - т а от<ref type="etymon" target="yyod">*йёд</ref>,ъ (см.).</gram>
+  </gramGrp>
+  <note>Ср. еще F. Bezlaj. Vas in selo v slovenski onomastiki. — JiS 1959—1960, 7, 204. He исключено, что серболуж. слово входит в круг иных глаг.- именных образований.</note>
+</Entry>

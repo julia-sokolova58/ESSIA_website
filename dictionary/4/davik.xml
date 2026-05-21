@@ -1,0 +1,12 @@
+<Entry xml:id="davik">
+  <pb n="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*davikъ</orth>
+    <lemma>davikъ</lemma>
+  </form>
+  <etym type="cognates" />
+  <gramGrp>
+    <gram>Производное с суфф. -({)къ от гл.<ref type="etymon" target="daviti">*daviti</ref> (см.).
+полаб, davek м. р. 'ястреб' (Polanski—Sehnert 53, дают реконструкцию <ref type="etymon" target="davikb">*davikъ</ref> (?), слово сомнительное).</gram>
+  </gramGrp>
+</Entry>

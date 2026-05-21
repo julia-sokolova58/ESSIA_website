@@ -1,0 +1,112 @@
+<Entry xml:id="cajka">
+  <pb n="11" end_page="12" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čajьka</orth>
+    <lemma>čajьka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>ча</ref>]ка ж. р.</orth>
+      </form>
+      <sense>
+        <def>чайка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdjka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чайка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 92; Slovar sloven, jezika. I, 274: «книжн.»; из русск.?)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cejka</ref>, cajka</orth>
+      </form>
+      <sense>
+        <def>odula (Ст. -чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cej</ref>- ка</orth>
+      </form>
+      <sense>
+        <def>чибис Vanellus cristatus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czajka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>птица Vanellus va- nellus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1088)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>Za</ref>\ka ж. p.</orth>
+      </form>
+      <sense>
+        <def>чибис</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Olesch, S. An- naberg 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>Шка</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz, Pomor. I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чайка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>водоплавающая птица с мягким густым one- рением и короткими ногами</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чййка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица: пигалица, чибис Vanellus cristatus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чайка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чайка—Сюда же (ст.-укр.?)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Чайка, личн. имя собств. (канев¬ ский боярин, 1552. Тупиков 477), Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от основы <ref type="etymon" target="caja">*caja</ref> (см.; там же об 
+этимологии).</gram>
+  </gramGrp>
+  <note>О звукоподражат. природе см. еще Л. А. Булахов- ский. Общеславянские названия птиц. — ИАН ОЛЯ VIJ, 1948, 101, 112. Мысль Брюкнера о родстве с *cajiti 'подстерегать' (A. Bruckner KZ XLVIII, 1918, 198) не встретила поддержки.</note>
+</Entry>

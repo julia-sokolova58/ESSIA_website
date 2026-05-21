@@ -1,0 +1,51 @@
+<Entry xml:id="caritiII">
+  <pb n="24" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čariti II</orth>
+    <lemma>čariti II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>eerie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чертить, проводить неглубокую борозду, полосу, неглубоко, мелко пахать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>certs</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>начер­ тать, пахать; писать каракулями, вцарапывать, мелко пахать, бороздить .—Возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cdfiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>убегать, удирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ганацк., Kott VII, 2, 1215)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="cara-2">*cara</ref> III (см.).</gram>
+  </gramGrp>
+</Entry>

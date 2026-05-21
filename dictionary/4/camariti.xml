@@ -1,0 +1,77 @@
+<Entry xml:id="camariti">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čamariti</orth>
+    <lemma>čamariti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чуиар</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъ съ хмуриться, выражать недоволь­ ство чем-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czamarzyc</ref> si$, camarzyc si?</orth>
+      </form>
+      <sense>
+        <def>хмуриться . —Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чиаритъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чахнуть, хиреть; еле прозябать , кое-как пробиваться , далее —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., Даль IV, 1355)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., Грот. Дополнения и заметки к «Толковому словарю» Даля 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чучёря</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хмуриться, выражать недоволь­ ство , чу.чря то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 635; БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чумёр</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъсъ хмуриться, сердиться (с. Енина, Казанлъшко, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>В этимол. словарях пропущено, хотя может считаться стар, элементом лексики. Любопытен болг .-польск. характер изоглоссы, охватывающей основные соответствия.</note>
+  <gramGrp>
+    <gram>Сложение экспрессивной приставки са-, местоименного про­ исхождения, и гл.<ref type="etymon" target="mariti">*mariti</ref> 
+(см.), ср. близкородственное сло­
+жение <ref type="etymon" target="satgyoa">*сатъгёа</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

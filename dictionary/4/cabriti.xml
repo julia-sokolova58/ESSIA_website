@@ -1,0 +1,41 @@
+<Entry xml:id="cabriti">
+  <pb n="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čabriti</orth>
+    <lemma>čabriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cdbrit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блуждать, бродить, шагать большими шагами , сюда же cabarit se бродить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 11)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> от звукоподражат. основы, представленной в <ref type="etymon" target="cab-">*cab-</ref>
+rati (см.).</gram>
+  </gramGrp>
+  <note>Этимологическое отождествление с лит. kidblinti, kobrinti 'медленно идти, ползти (о старческой походке)', (Machek 2 92) не­ приемлемо, потому что, во-первых, при этом, неправомерно изо­ лируется знач. 'идти, бродить' чеш. слов (выше) от более широ­ кой экспрессивной семантики<xr type="compare">см. <ref type="etymon" target="cabrati">*cabrati</ref>
+    </xr>, во-вторых, лит. слова 
+и формально и семантически принадлежат к гнезду kdbeti 'висеть, 
+цепляться' (Fraenkel I, 255)., во-вторых, лит. слова 
+и формально и семантически принадлежат к гнезду kdbeti 'висеть, 
+цепляться' (Fraenkel I, 255)., во-вторых, лит. слова 
+и формально и семантически принадлежат к гнезду kdbeti 'висеть, 
+цепляться' (Fraenkel I, 255)., во-вторых, лит. слова 
+и формально и семантически принадлежат к гнезду kdbeti 'висеть, 
+цепляться' (Fraenkel I, 255).</note>
+</Entry>

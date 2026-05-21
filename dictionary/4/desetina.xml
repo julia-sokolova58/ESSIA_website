@@ -1,0 +1,170 @@
+<Entry xml:id="desetina">
+  <pb n="215" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*desętina</orth>
+    <lemma>desętina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>десАпгина</ref> ж. p. 8ех&lt;х;, eTuSsxaiov, Ssxaxr] decas, de- cima</orth>
+      </form>
+      <sense>
+        <def>десятина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>десетйна</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>десяток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>десетйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десяток, десятеро, десятая часть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>десетйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятая часть, десятина, десяток, также десетйна ж. р. , десётитьа, десетйуьа ж. р. (тахМ же)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 233—234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>desetina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятая часть, десятина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 132—133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>desatina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десятина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>desetina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятая часть, также desitina</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>desatina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятая часть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 251)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzesacina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятая часть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>десятина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десятая доля (род дара или дани) , род налога , побор, налог вообще , мера пространства</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Быт. XIV. 20 по сп. XIV в. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Р. Прав, по Акад. сп.; Новг. I л. под 1204 г.; Георг. Ам. 58)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 84)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Уст. гр. м. Кипр. Конст. мон. 1392 г.; Грам. Зве- ниг. кн. Андр. Вас. иг. Дионис. 1490 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 658)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>десятина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятая часть чего-либо, одна десятая доля; подать, составляющая десятичную долю с имущества или дохода, стар, округ, известное число церквей и монастырей, мера земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1075)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>десятина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мера площади (новосиб., астрах.), холст из поскони (новосиб.), ткань, в ос­ нове которой при ее изготовлении натянуто 10 ниток (Ср. Урал), моток пряжи в десять пасм (свердл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>деся</ref>­ тина ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятая часть, десятина, мера земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 373)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="des-2">*des</ref>?tb 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер I, 507.</note>
+</Entry>

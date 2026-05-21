@@ -1,0 +1,26 @@
+<Entry xml:id="cajik">
+  <pb n="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čajikъ</orth>
+    <lemma>čajikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cajik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>название птицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-гкъ</ref>
+      </m> от основы <ref type="etymon" target="caja">* caja</ref> (см.); форма м. р., 
+соотносительная с формой ж. p. <ref type="etymon" target="cajica">*cajica</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

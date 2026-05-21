@@ -1,0 +1,35 @@
+<Entry xml:id="caratiII">
+  <pb n="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarati II</orth>
+    <lemma>čarati II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cdrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>проводить черту, чертить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ciaratf</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 207)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от <ref type="etymon" target="cara">*cara</ref> III (см.).</gram>
+  </gramGrp>
+</Entry>

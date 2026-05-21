@@ -1,0 +1,120 @@
+<Entry xml:id="casnj">
+  <pb n="30" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*časьnъjь</orth>
+    <lemma>časьnъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>W</ref> A N Z , прилаг.</orth>
+      </form>
+      <sense>
+        <def>часовой (Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>casan</ref>, -sna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>momentaneus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 903)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdseny</ref> -sna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>временный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>casny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>вре­ менный, преходящий, ранний, преждевременный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cacnej</ref>, casnej</orth>
+      </form>
+      <sense>
+        <def>такой, которого невозможно дождаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 119: сев.-чеш.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>casny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>временный, ранний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>casny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>временный, преходящий, своевременный, зрелый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>casny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>временный, земной, ранний, своевре­ менный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SH, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>casni</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>временный, свое­ временный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>часнйй</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>о работе: зависящий от времени, в которое наиболее удобно делать (Лохв. у.), своевременный (о родах) (НВолын. у.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин- ченко IV, 446)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="sav">*савъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

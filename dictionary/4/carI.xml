@@ -1,0 +1,32 @@
+<Entry xml:id="carI">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čarь I</orth>
+    <lemma>čarь I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чар</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>очарование, обаяние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон. Ill, 530)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>саг</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чары, колдовство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 890)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Основа на соотносительная с *сага, *сагъ (см.; этимоло­ гия — на *сага).</note>
+</Entry>

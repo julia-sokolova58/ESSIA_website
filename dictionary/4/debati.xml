@@ -1,0 +1,30 @@
+<Entry xml:id="debati">
+  <pb n="225" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕbati</orth>
+    <lemma>dĕbati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dĕbati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, хлестать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дя</ref>- бать</orth>
+      </form>
+      <sense>
+        <def>ломать (Картотека Псковского областного словаря)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Неясное, возм., экспрессивное слово. Махек принимает род­ ство с *tep(a)ti (см.; см. Machek 2 640), чему, однако, препятствует форма.</note>
+</Entry>

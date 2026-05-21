@@ -1,0 +1,31 @@
+<Entry xml:id="dalimil">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dalimilъ</orth>
+    <lemma>dalimilъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Dalimil</ref> м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 205)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение основ<ref type="etymon" target="dal-">*dal-</ref> (см. <ref type="etymon" target="daVe-4">*daVe</ref>, <ref type="etymon" target="dalb">*dalb)</ref> и <ref type="etymon" target="ti">*тИъ</ref>.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="daliborbldaVeborb">*daliborbl*daVeborb</ref>
+    </xr> 
+(см.; там же более подробная формальная 
+характеристика). 
+(см.; там же более подробная формальная 
+характеристика). 
+(см.; там же более подробная формальная 
+характеристика). 
+(см.; там же более подробная формальная 
+характеристика).</note>
+</Entry>

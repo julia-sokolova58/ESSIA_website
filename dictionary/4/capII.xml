@@ -1,0 +1,27 @@
+<Entry xml:id="capII">
+  <pb n="20" end_page="21" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čapъ II</orth>
+    <lemma>čapъ II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чапъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пчела</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Златостр. XVI в., Срезневский III, 1471)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Давно выдвинуто сближение с rde4. xrjcpTjv 'трутень' (см., вслед за Маценауэром [Matzenauer. Gizi slova 136], J. Schmidt KZ XXVI, 1883, 393; E. Zupitza KZ XXXVII, 1904, 399; Berneker I, 136; Фас­ мер IV, 314). Делалась, далее, попытка объединить слав, слово и греч. xTjcpVjv « * a c p d v &lt;C *kaph-, при *keph- в слав.) с лат. apis 'пчела', см. К. Ostir «Etnolog» IV, 1930, 6.</note>
+  <gramGrp>
+    <gram>Однако, если оставить в сто­ роне неясное лат. apis, то вполне возможно, что мы имеем дело в греч. и слав, с местными лексико-семантич. новообразованиями, причём греч. xYjcprjv связано с прилаг. xuxpos 'тупой', 'немой', 'глухой' (см. Hofmann 143; Frisk I, 847; ср. еще Boisacq 4 452), а слав.<ref type="etymon" target="sar">*саръ</ref> 'пчела'—с гл. <ref type="etymon" target="capati">*capati</ref> (так см. F. A. Wood. Names of stin­
+ging, gnawing, and rending animals. —AJPh XLI, 1920, 225—226).</gram>
+  </gramGrp>
+  <note>Тогда *саръ П = *саръ I (см.).</note>
+</Entry>

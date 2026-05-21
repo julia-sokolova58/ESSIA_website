@@ -1,0 +1,161 @@
+<Entry xml:id="deseterodeseterdesetorodesetor">
+  <pb n="214" end_page="215" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*desętero/*desęterъ/*desętoro/*desętorъ</orth>
+    <lemma>desętero/*desęterъ/*desętoro/*desętorъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дбГАто</ref>^ъ, числ. 8sxa, decern</orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёсеторо</ref>, дё~ сетеро, числ. собир.</orth>
+      </form>
+      <sense>
+        <def>десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карацип; РСА IV, 233, 236)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">стар. <ref>deseter</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>десятикратный, из десяти частей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II» 349—350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deseter</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>десять, десятеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>desatero</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десять, десятеро</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>desatoro</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>десять, десятеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 251)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zaseiory</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десятикратный, десяти­ ричный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. И, 1175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>disqtaru</ref>, числ. собир.</orth>
+      </form>
+      <sense>
+        <def>десять, десятеро , др-русск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>десАтеро</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десять , десАтеры , десАторо десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Златостр. XII в., Жал. гр. 1388 г., Псков. I л. под 1390 г., Срезневский I, 656)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Феоф. толк, ев., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Прол. Тр. XIV в., Срезневский I, 659)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>десятеро</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десять или десяток; самдесят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1074)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>десятеро</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>десять душ, штук . —Сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>десетбрка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятка, де- сять человек , десетйрка ж. р. десятка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(купюра в 10 ле­ вов)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собир. числ-ное, производное с суфф. -ег-/-ог- от<ref type="etymon" target="desptb">*desptb</ref> 
+(см.), 
+образцом для чего послужила, по-видимому, форма <ref type="etymon" target="eetverb">*eetverb</ref> / <ref type="etymon" target="cet--2">*cet-</ref>
+vero (см.).</gram>
+  </gramGrp>
+  <note>См. Meillet. Etudes II, 231; Vaillant. Gramm. comparee II, 2, 664 и сл.</note>
+</Entry>

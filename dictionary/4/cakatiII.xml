@@ -1,0 +1,149 @@
+<Entry xml:id="cakatiII">
+  <pb n="13" end_page="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čakati II</orth>
+    <lemma>čakati II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чакаи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ломать , чакаи высекать огонь (огнивом о кремень)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски реч­ ник.—БД V, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>cdkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 883)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cdkat</ref> (vodu)</orth>
+      </form>
+      <sense>
+        <def>плескать, выплескивать по частям , cagaf (песо do sebe) хватать, глотать, жадно есть , cagat то же , cagat шлепать по грязи, по лужам , cdchati se плескаться, cachae 7 плескаться, барахтаться (в воде) , cdkat брызгать (водой)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. Ill)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чакатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать , чакатъ колотить, стучать , чакатъ стукать, ударять , чакатъ стучать зубами (волог., перм., Картотека Словаря рус­ ских народных говоров). — Возм., дальнейшим преобразова­ нием той же основы являются</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., Опыт 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., Даль 3 IV, 1282)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожиль­ ческих говоров средней части бассейна р. Оби 3, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чвакати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хлестать, хлопать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cudkaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щипать, дергать , eudchaty euachat плюхать, плескаться в воде , далее —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; Kott. Dod. k Bart. 14; HruSka. Slov. chod. 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cvachtati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идти с шумом, плеском по грязи, по воде</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cvachtafsa</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чвакать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чавкать, чмокать (пек., твер.), когда вода попадет в сапоги, издавать особенного рода звук при хождении</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чвйкати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чавкать , джвЛкати чавкать, ударить сильно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин- ченко IV, 447)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грин- ченко I, 374)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Из двух первоначально этимологически тождественных глаго­ лов (см. еще *cakati I, выше) *cakati II сохранило древнейшую экспрессивную семантику 'бить', 'ломать', 'плескать', 'хватать' (последнее знач. послужило отправным в эволюции знач. 'ждать' у *cakati I). В этимол. словарях освещено недостаточно. Дополни­ тельные семантич. обоснования и аналогии см. на *caknqti.</note>
+</Entry>

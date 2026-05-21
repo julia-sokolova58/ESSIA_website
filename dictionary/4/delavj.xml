@@ -1,0 +1,84 @@
+<Entry xml:id="delavj">
+  <pb n="232" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlavъ(jь)</orth>
+    <lemma>dĕlavъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪлавыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>деятельный, действи­ тельный , субстантивированное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Апост. XIV в.; Ряд. Зап. 1542 г., Срезневский I, 784)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>делава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деловая женщина; мастерица, рукодельница , далее — производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тамб., пенз., Филин 7, 339)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, (<ref>чак</ref>., кайк.) djelavac, род. п. djeldvca, м. р.</orth>
+      </form>
+      <sense>
+        <def>работник , djelavan, dje- lavna, прилаг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI—XVII вв., RJA II, 440)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>delaven</ref>, -una, прилаг.</orth>
+      </form>
+      <sense>
+        <def>трудолю­ бивый, деятельный, рабочий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дЪлаеец</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>работник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., «Назиратель». М., 1973. 155 = 24,9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>делавьЛ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деловая женщина; мастерица, рукодельница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тамб., пенз., влад., Филин 7, 339)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. производное с суфф. -(а)иъ от гл.<ref type="etymon" target="delati">*delati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

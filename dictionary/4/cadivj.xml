@@ -1,0 +1,21 @@
+<Entry xml:id="cadivj">
+  <pb n="9" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čadivъjь</orth>
+    <lemma>čadivъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cadiuy</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>коптящий, чадящий</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -{i)v- от основы гл.<ref type="etymon" target="Saditi">*Saditi</ref> (см.).</gram>
+  </gramGrp>
+  <note>Древ­ ность образования неясна.</note>
+</Entry>

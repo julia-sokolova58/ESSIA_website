@@ -1,0 +1,84 @@
+<Entry xml:id="cadeti">
+  <pb n="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čadĕti</orth>
+    <lemma>čadĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>čadĕti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться черным как сажа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czadziec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угорать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1088)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>надеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уго­ рать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1280)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чадЬти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угорать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чадит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чадеть (о болезненном состоянии пчел во время неожиданной оттепели)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. В. Анохина, Н. В. Никончук. Полесская терминология пчеловодства. — «Лексика Полесья» 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чадзецъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угорать, отравляться угаром</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-etiy</ref>
+      </m> производный от <ref type="etymon" target="cad">*cadъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

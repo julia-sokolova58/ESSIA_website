@@ -1,0 +1,15 @@
+<Entry xml:id="ablon">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*аblоnь</orth>
+    <lemma>аblоnь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>форм</ref> как заимств. из</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Далее об этимологии см. на *аЫъко.</note>
+</Entry>

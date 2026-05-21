@@ -1,0 +1,27 @@
+<Entry xml:id="camati">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čamati</orth>
+    <lemma>čamati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cdmati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тосковать, томиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 886)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Родственно лит. катйоЫ 'мучить, томить', причем слав, форма может содержать продление корневого вокализма в итеративе — дуративе:<ref type="etymon" target="carmti">*carmti</ref> &lt;^ <ref type="etymon" target="cemati">*cemati</ref>, 
+ср. выше аналогично о <ref type="etymon" target="cakati-2">*cakati</ref> &lt; 
+<ref type="etymon" target="cekati">*cekati</ref>.</gram>
+  </gramGrp>
+  <note>Ср. Berneker I, 167, где реконструируется праслав. *сып-&gt; хотя вокализм сербохорв. eamati, а также болг. и русск. соот­ ветствий (ниже) показывает старую долготу; аналогично Берне- керу см. Skok. Etim. rje6n. 1. 292. См. еще *сатаиъ, *camiti.</note>
+</Entry>

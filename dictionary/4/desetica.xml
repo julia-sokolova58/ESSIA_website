@@ -1,0 +1,72 @@
+<Entry xml:id="desetica">
+  <pb n="215" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*desętica</orth>
+    <lemma>desętica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>десетйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десятка, десятеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>десетща</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>десётица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десяток, (деньги) десятка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>desetica</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>десАтица</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Десятица оучнкъ боиз- бранага, Мин. июл. XIV в. 76 об. Срезневский I, 659)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>десятпица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>десяток или десятый счетом, кто или что вер­ шит собою число десять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 8 I, 1074)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> (в собир. функции) от <ref type="etymon" target="des">*des</ref>?tb (см.).</gram>
+  </gramGrp>
+</Entry>

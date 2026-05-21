@@ -1,0 +1,26 @@
+<Entry xml:id="caritel">
+  <pb n="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čaritelь</orth>
+    <lemma>čaritelь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cafacel</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чародей, колдун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz * Slovinz. Wb. I, 136)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-telb</ref>
+      </m> от гл. <ref type="etymon" target="cariti-2">*cariti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Любо­ пытный случай образования (возм., древнего?) на -telb в народно- разговорном языке (иной формы существования кашубско-словин- ский язык попросту не знает). Ср. о ярко литературных истоках имен на -telb во всех славянских языках: С. Б. Бернштейн. К исто­ рии славянского суффикса -teVb. — «Русское и славянское языко­ знание. К 70-летию члена-корреспондента АН СССР Р. И. Ава- несова» (М., 1972) 36 и сл. Справедливости ради надо отметить, что словин. cdfacel —культурное, культовое слово ('чародей') и эта его особенность сближает его с собственно литературной лексикой на -telb.</note>
+</Entry>

@@ -1,0 +1,46 @@
+<Entry xml:id="cad-2">
+  <pb n="10" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čadь</orth>
+    <lemma>čadь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чад</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дым, чад, угар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cad</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чад</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 877)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чадь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чад, угар, головная боль от похмелья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Даль 3 IV, 1280)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ. на -i- основу, соотносительное с<ref type="etymon" target="sas">*сас</ref>^&amp; (см.).</gram>
+  </gramGrp>
+</Entry>

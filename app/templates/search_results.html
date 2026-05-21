@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block title %}Поиск — Этимологический словарь{% endblock %}
+{% block content %}
+<h2 class="fw-bold mb-4" style="color: #4682B4;">Поиск по словарю</h2>
+
+<form class="row g-3 mb-4 p-3 bg-light rounded shadow-sm" method="get" action="{{ url_for('main.search') }}">
+  <div class="col-md-7">
+    <input type="text" class="form-control" name="q" value="{{ query }}" placeholder="Введите слово или фразу...">
+  </div>
+  <div class="col-md-3">
+    <select class="form-select" name="type">
+      <option value="lemma" {% if search_type == 'lemma' %}selected{% endif %}>По лемме</option>
+      <option value="article" {% if search_type == 'article' %}selected{% endif %}>По тексту статьи</option>
+    </select>
+  </div>
+  <div class="col-md-2">
+    <button type="submit" class="btn w-100" style="background-color: #4682B4; color: white;">Искать</button>
+  </div>
+</form>
+
+{% if results is defined and results %}
+  <p class="text-muted">Найдено: <strong>{{ results|length }}</strong></p>
+  <div class="list-group shadow-sm">
+    {% for lemma in results %}
+      <a href="{{ url_for('main.lemma_view', lemma_id=lemma.id) }}" class="list-group-item list-group-item-action border-0 border-bottom py-3">
+        <strong style="color: #2c3e50;">{{ lemma.lemma }}</strong>
+        <span class="text-muted ms-3 small">Том {{ lemma.volume.volume_number }}, стр. {{ lemma.page }}</span>
+      </a>
+    {% endfor %}
+  </div>
+{% elif query %}
+  <div class="alert alert-warning border-0" style="background-color: #e8f0fe; color: #4682B4;">
+    По запросу «<strong>{{ query }}</strong>» ничего не найдено. Попробуйте изменить запрос или тип поиска.
+  </div>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,68 @@
+<Entry xml:id="dediti">
+  <pb n="226" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕditi</orth>
+    <lemma>dĕditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dĕditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наследовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dĕditi</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dedit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>купить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dedif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наследовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дедйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 7, 329)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="dedb">*dedb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

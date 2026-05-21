@@ -1,0 +1,91 @@
+<Entry xml:id="desiti">
+  <pb n="217" end_page="218" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*desiti</orth>
+    <lemma>desiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>десити</ref> eupcWiv, ev-coy^avsiv, invenire</orth>
+      </form>
+      <sense>
+        <def>найти, встре­ тить (Супр., Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дёсим</ref> се</orth>
+      </form>
+      <sense>
+        <def>стоять прямо продолжи­ тельное время</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Брезнишки говор, СбНУ XLIX, 776. Цит. по: Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёсити</ref>, дёсйм</orth>
+      </form>
+      <sense>
+        <def>встретить, также дёсити застать, найти, встретить, попасть (напр. в цель), десити се случиться, произойти, оказаться, встретиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дёшити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>длиться, продол­ жаться, выносить, терпеть , дёсит найти, застать, случиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>десити</ref>, дЪсити</orth>
+      </form>
+      <sense>
+        <def>находить, desnica встречать , деситиш .—Ср. производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Втз. XXII. 25 по сп. XIV в.; Гр. Наз. XI в, 255)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 655)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Аще мужь дЪсится съ женою мл^жатою еире&amp;т], inventus fuerit, Втз. XXII, 22 по сп. XIV в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Десислав</ref> м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Илчев. Речник на личните и фамилните имена у бълга- рите 161)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Если не считать русск.-цслав. примеров (возм., др.-болг. про­ исхождения), мы имеем здесь дело с древним ю.-слав. диалек­ тизмом лексики (ср., впрочем, Махек, ниже), отсутствующим, к тому же, и в словен. Тем не менее, речь идет о древнем слове с и.-е. соответствиями. Ср. греч. Ssxo^ai 'принимать', лат. decet 'подобает', др.-инд. dasasydti 'оказывать услуги, быть любезным', ddksati 'удовлетворять, доставлять, удовольствие', хетт, takk- 'быть похожим, подходить', taks- 'устраивать, приспосабливать' &lt; и.-е.<ref type="etymon" target="delcs-">*delcs-</ref>, где s 
+расширитель. В балт. языках гл. отсутствует, 
+хотя и фигурирует в словаре Траутмана. См. еще <ref type="etymon" target="dositi">*dositi</ref>. 
+См. A. Meillet MSL 14, 1907, 338; он же BSL 20, 1916, 167 
+(об аномальности вокализма -е- в гл. на -Ш-); Berneker I, 188; 
+Trautmann BSW 54; Walde—Hofm. I, 330; Boisacq
+4 172; Chant-
+raine. Dictionnaire etym. de la 1. grecque 1—2, 269; Mayrhofer II, 
+10, 27; E. Laroche BSL 58, 1963, 65—71; Sadnik—Aitzetmuller. 
+Handworterbuch 226; Фасмер I, 505—506; Георгиев ВЕР V, 347; 
+Skok. Etim. rjecn. I, 395; Machek
+2 115 (относит сюда же ст.-чеш. 
+-desiti в podesiti, Dalimil).</gram>
+  </gramGrp>
+</Entry>

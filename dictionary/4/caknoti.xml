@@ -1,0 +1,115 @@
+<Entry xml:id="caknoti">
+  <pb n="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čaknǫti</orth>
+    <lemma>čaknǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чакна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, сломать , высекать огонь огнивом о кре­ мень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник.—-БД V, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чакне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить (легонько)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>caknuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издать звук, звякнуть, стукнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 883)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>caknut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно ударить, обмануть, обсчитать кого- либо , cdchnoutl ударить, шлепнуть, edehnout то же , cagnut ударить , cagnut то же , cdhnut попасть , cdhnout ударить, шлепнуть , возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. Ill)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 11)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чахнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хиреть, сохнуть, становиться чахлым</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чахнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>о белье: сохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., твер., Опыт 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чахнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чахнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 447)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqtiy</ref>
+      </m> соотносительный с <ref type="etymon" target="cakati">*cakati</ref>.</gram>
+  </gramGrp>
+  <note>При этом *cakngti в первую очередь связано с *cakati II (см.), но можно также говорить об опосредствованной связи с *cakati I (см.). Кроме внутренних фактов очевидного родства форм и звеньев семанти­ ческой эволюции ('ударять', 'хватать' -&gt; 'доставать, быть достаточ­ ным' 'ожидать'; 'ударять' -&gt; 'сохнуть, чахнуть'), мы находим подтверждение своим сближениям в семантич. аналогии лит. dziduti 'ударять', 'сушить', этимологически родственного лтш. gaugties 'надеяться, ожидать' (см. подробно о балт. словах S. Karaliunas. Semantika ir etimologija. — «Leksikos tyrineji- mai» = «Lietuvrq kalbotyros klausimai» XIII. Vilnius, 1972,11—13). Совершенно очевидно, далее, что включение в этот ряд русск. чахнуть 'хиреть', (диал.) 'сохнуть (о белье)' само по себе озна­ чает для русского слова новое этимол. решение. О семантич. связи уже говорилось, связь формальная (вплоть до экспрессив­ ного перехода к^&gt;х, ср. и чеш. диал. примеры, выше) вопро­ сов не вызывает. Традиционная этимологизация (Berneker I, 133: чахнуть &lt; *caks- &lt; *keks-: нем. hager 'тощий'; Фасмер IV, 319—320: *чазнутъ&lt;^-чезнуть и др.) изолирует вост.-слав. слова от про­ чих славянских и оставляет нераскрытой семантич. эволюцию.</note>
+</Entry>

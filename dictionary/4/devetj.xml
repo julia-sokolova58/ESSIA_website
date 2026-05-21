@@ -1,0 +1,24 @@
+<Entry xml:id="devetj">
+  <pb n="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*devętъ(jь)</orth>
+    <lemma>devętъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дбБАтъ</ref>, --AIM, ЧИСЛ.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Ivvaxog, nonus 'девятый' (Mikl., Sad.), болг. девётиу числ. 'девятый' (БТР), макед. деветти то же (И-С), сербохорв. дёвётй 'девятый', словен. deuetiy числ. 'девятый' (Plet. I, 135), чеш. deudtyy слвц. deuiaty 'девятый' (SSJ I, 255), в.-луж. dzewjaty (Pfuhl 186), н.-луж. zewety 'девятый' (Muka St. II, 1191), полаб. divqte, числ. порядк. 'девятый' (Ро- lanski—Sehnert 53), польск. dziewiqty 'девятый' (Dorosz. II, 595), словин. geujdyty то же (Lorentz Slovinz. Wb. 1, 232), др.-русск., русск.-цслав. девАтыи (Остр, ев., Срезневский I, 650), так же как личное имя собств. (XV в., Тупиков 181), русск. девАтыйу -ая, -оеу укр. дев'ятий, -а, е- (Гринченко I, 365), блр. дзевЛты 'девя­ тый' (Байкоу-Некраш. 93).</note>
+  <gramGrp>
+    <gram>Порядк. числ., соотносительное с<ref type="etymon" target="deu-2">*deu</ref>$tb (см.), восходит (через 
+диссимиляцию или под влиянием начала слова <ref type="etymon" target="des-6">*des</ref>$tby 
+<ref type="etymon" target="des-7">*des</ref>?tb, 
+см.) к и.-е. <ref type="etymon" target="neuentosy">*neuentosy</ref>
+      <ref type="etymon" target="neur">*neur</ref>},tosy ср. лит. deuintas, 
+греч.</gram>
+  </gramGrp>
+  <note>Ivaxoc, Iwaxog, гот. niunda 'девятый'. См. Berneker I, 189; Фасмер I, 492.</note>
+</Entry>

@@ -1,0 +1,31 @@
+<Entry xml:id="cagost">
+  <pb n="10" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čagostь</orth>
+    <lemma>čagostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. *<ref>Cahost</ref> м. р., личное имя собств. . — Сюда же произ­ водное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(С. Роспонд ВЯ 1965, № 3, 8, где дается реконструкция)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Чагоща</ref> (CagoSta), местн. н. в обл. Валона, Алба­ ния, 1431 г. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Й. Займов. Български географски имена с София, 1973, 174)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антропонимическое сложение двух основ, см.<ref type="etymon" target="cajati">*cajati</ref> и <ref type="etymon" target="gostb">*gostb</ref>.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="camysH">*camysH</ref>
+    </xr>....</note>
+</Entry>

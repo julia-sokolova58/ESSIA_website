@@ -1,0 +1,224 @@
+<Entry xml:id="dela">
+  <pb n="234" end_page="235" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕl’a</orth>
+    <lemma>dĕl’a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д4ш</ref>, послелог с род. п. 8ta, propter</orth>
+      </form>
+      <sense>
+        <def>ради</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>dijel</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>из-за, ради</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV—XVII вв., RJA II, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>delj</ref>:za-delj</orth>
+      </form>
+      <sense>
+        <def>ради, из-за</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>die</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>согласно, по</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dlo</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>для , ст.-елвц. die, dVa, предл. из-за, ради</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kellner. VychodolaS. I, 231)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vazn^. Stfedovek. list. 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">слвц. стар. <ref>dVa</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>по, согласно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, č271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>tela</ref>, zila, нареч.</orth>
+      </form>
+      <sense>
+        <def>возле, подле, мимо , dla для, ради</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. II, 1183)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dla</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>для, стар, dziela то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 641; Dorosz. II, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dziele</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>по, согласно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dlau</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>для, за, вместо, ради, из-за, против</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>по причине , об, что касается до (Вопр. Кир.), благодаря, по воле , для ради , дт ради</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дог. Иг. 945 г.; Панд. Ант. XI в. л. 29 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Бог.; Кир. Тур. 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Иак. поел. Дм. 1078 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 781—783)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дух. Ост. ок. 1396 г.; Жал. гр. Ниж. в. к. Дан. Бор. 1410—1417 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срез­ невский I, 669)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. для, <ref>предл</ref>.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. для</orth>
+      </form>
+      <sense>
+        <def>около, ради , дле подле, возле , дли, нареч. близ, подле , дле, дли, для, предл. с род. п. возле, около, рядом (курск., орл., тул., калуж., каз., смол., тамб., брян.,- влад.), в сочетании для рыги в риге (ряз., сарат.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(До­ бровольский 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(каз., Даль 8 1, 1093)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 47)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. для, <ref>предл</ref>.</orth>
+      </form>
+      <sense>
+        <def>для, по, потому, поэтому , дыя то же , дле, предл. около</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 393)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 391)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 393)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзёля</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ради, для</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кась- пяров1ч 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Строго говоря, в перечисленных выше формах перекрестились и слились две генетически различные: причинное<ref type="etymon" target="deVa">*deVa</ref> и про­
+странственное <ref type="etymon" target="dbVa">*dbVa</ref>. Несмотря на столь тесное переплетение, 
+приводящее иногда к невозможности четкого различения рефлексов 
+и побудившее нас рассматривать обе праформы в одной словар­
+ной статье, этимология их различна. Праслав. <ref type="etymon" target="dbVa-2">*dbVa</ref> пространст­
+венное имеет общий корень с целой группой слов на <ref type="etymon" target="dbl">*dbl</ref>~, обо­
+значающих длину, продолжительность, тогда как <ref type="etymon" target="deVa-2">*deVa</ref> причин­
+ное нельзя отрывать от праслав. <ref type="etymon" target="delo-2">*delo</ref> (см.), с кот. оно связано 
+с помощью словообразовательного форманта -у- и, как полагают,
+древней формой тв. и. ед. ч. на -а. Хорошей семантич. и морфол. 
+аналогией служит лат. causa 'для' от causa 'дело'. Ввиду наличия 
+таких недвусмысленных связей 
+в слав, отношение к близким 
+балт. формам надо толковать совершенно однозначно: лит. del 
+'для, ради', стар, dela, лтш. def 'ради, для', диал. также dea 
+представляет собой раннее заимств. из слав., как совершенно пра­
+вильно указал Эндзелин (Лтш. предлоги 1,82—83 = J.</gram>
+  </gramGrp>
+  <note>Endzellns. Darbu izlase I. Riga, 1971, 386—387). G этим автором мы не мо­ жем согласиться, пожалуй, только в вопросе о вокализме слав, слова. Слав. *deVa, как и производящая основа *delo, *delati, характеризовалось монофтонгич. вокализмом (ё &lt; г), что убеди­ тельно подтверждают как раз лит. del, лтш. de}, а не первона­ чальным корневым дифтонгом ог, как думал Эндзелин. В общем правильно судит Вайян, допуская заимствование из слав, в лит. и лтш., см. Vaillant. Gramm. comparee II, 2, 698. Остальные авторы предпочитают говорить о родстве слав, и балт. слов. См. Berneker I, 195—196; Фасмер I, 497; Stawski I, 147; Fraenkel 1, 86—87 (стремление последнего разделить лит. del и ст.-слав. д'кш не может встретить поддержку); Machek 2 120. Подробно см, «Ety- mologicky slovnik slovanskych jazyku. Slova gramaticka a zaj- mena». Sv. 1. Sest. F. Kopecny (Praha, 1973), 55—59.</note>
+</Entry>

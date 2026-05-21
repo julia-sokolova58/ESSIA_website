@@ -1,0 +1,121 @@
+<Entry xml:id="capeti">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čapĕti</orth>
+    <lemma>čapĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чепе</ref> се</orth>
+      </form>
+      <sense>
+        <def>лезть, карабкаться , чёпим се корчиться, кривляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 156)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. К. Шапкарев — Близнев БД III, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cepeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть на корточках, скор­ чившись , стар, zhepeti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jarnik 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>eapetl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть на корточках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>capjet</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cupietf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть поджав ноги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 225; см. еще Kott I, 200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czepied</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть на корточках; корпеть, старательно следить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJ. gw. p. I, 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чатти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плохо делаться?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пити BMie, а работа в його чаше. Гринченко IV, 444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чапЧти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>торчать, долго и упорно ждать , чипЧти, чапЧти торчать , че ипЧти держаться, ждать, быть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Лисенко. Лексичш особливое^ roeipoK Ставищан- ського району Кшвсько! обл. — «Д1алектолопчний бюлетень» V, 1955, 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Областной словарь буко- винских говоров 472)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мо­ скаленко. Словник д1алектизм1в украшських roeipoK Одесько! област1 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m> (впрочем, болг. диал. формы, выше, двусмысленны 
+и могут восходить к <ref type="etymon" target="sarsh">*сарШ</ref>, см.), соотносительный с <ref type="etymon" target="capati">*capati</ref> 
+(см.; там же этимол. характеристика).</gram>
+  </gramGrp>
+  <note>Как и для близко родствен­ ного *capati, варианты с лабиализованным вокализмом или с назализацией (см. выше) трактуются как преобразования пер­ вичного -а- в корне; в остальном ср. их близкие значения. Сближение *capeti с лит. kebsoti 'сидеть на корточках' (Machek 2 94) маловероятно.</note>
+</Entry>

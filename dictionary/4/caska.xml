@@ -1,0 +1,105 @@
+<Entry xml:id="caska">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čašьka</orth>
+    <lemma>čašьka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чашка</ref> ж. p. ум.</orth>
+      </form>
+      <sense>
+        <def>стаканчик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чашка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рюмка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-G; Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cdska</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>concha, conchylium раковина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 914)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdska</ref> ж. р. ум.</orth>
+      </form>
+      <sense>
+        <def>чашка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>clska</ref> ж. р., ум. к else,</orth>
+      </form>
+      <sense>
+        <def>чашечка (напр. у цветов)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ciaska</ref> ж. р. ум.</orth>
+      </form>
+      <sense>
+        <def>чашка, чашечка (цветка), сорт грибов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чашка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>небольшой сосуд округлой формы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чашка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чашка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 447)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чашка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чашка</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от <ref type="etymon" target="casa">*casa</ref> (см.).</gram>
+  </gramGrp>
+  <note>Возможна зна­ чительная древность. О семантике см. специально К. Moszynski ^ JP XXXIII, 1953, 347—348.</note>
+</Entry>

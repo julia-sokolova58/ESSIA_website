@@ -1,0 +1,114 @@
+<Entry xml:id="deveterodeveterdevetoro">
+  <pb n="221" end_page="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*devętero/*devęterъ/*devętoro</orth>
+    <lemma>devętero/*devęterъ/*devętoro</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dev§terb</orth>
+    <lemma>dev§terb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dev§toro</orth>
+    <lemma>dev§toro</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёветеро</ref>, дёветоро</orth>
+      </form>
+      <sense>
+        <def>де­ вять, сюда же deveter, прилаг. девятикратный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deveter</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>девять, девятеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>de</ref>- vatero</orth>
+      </form>
+      <sense>
+        <def>девять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>devatoro</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>divqtaru</ref>, числ. собир.</orth>
+      </form>
+      <sense>
+        <def>девять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>девятеро</ref>, числ. соб.</orth>
+      </form>
+      <sense>
+        <def>девять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дёвяро</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Опыт 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>девя</ref>­ теро, числ.</orth>
+      </form>
+      <sense>
+        <def>девять душ, штук . — Сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>деветбреп</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>девятикратный , де- ветбрка ж. р. девятка . devetina Собир. числ. типа<xr type="compare">см. <ref type="etymon" target="destero">*des?tero</ref>
+          </xr>, особенно , особенно , особенно , особенно <xr type="compare">см. <ref type="etymon" target="Setvero">*Setvero</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

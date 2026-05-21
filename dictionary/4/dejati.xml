@@ -1,0 +1,258 @@
+<Entry xml:id="dejati">
+  <pb n="229" end_page="230" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕ(ja)ti</orth>
+    <lemma>dĕ(ja)ti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>*кгати, дЪк rcoielv, TtpaxTeiv, agere</orth>
+      </form>
+      <sense>
+        <def>делать, совер­ шать, «д1ти, д4жд^, A*tt^4 ропеге положить , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дей</ref> , дёйам</orth>
+      </form>
+      <sense>
+        <def>обтесывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в запретительных конструкциях не дей... 'не де­ лай', Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско.—БД VI, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дяна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поместить; деть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>денем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спрятать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>djeti</ref>, djedem, djenem</orth>
+      </form>
+      <sense>
+        <def>класть, ставить; положить, деть , сюда же стар, diti, dim гово­ рить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 454—455; PGA IV, 251)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 416—418; М. Tentor. Leksicka slaganja. — «Raz- prave» 1, 1950, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dejdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать, говорить, класть, ставить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 127—128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dieti</ref>, diem</orth>
+      </form>
+      <sense>
+        <def>делать, гово­ рить (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>diti</ref> (se)</orth>
+      </form>
+      <sense>
+        <def>делать(ся), deti (se) тоже, diti говорить, сказать, diti se деться, деваться, пропадать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dejaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать, совершать , diatf sa делаться, совер­ шаться , diet sa деться, пропасть, diet сдеть, за­ сунуть, спрятать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 90)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 259)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>died</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, сказать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ъай</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить , (редк.) делать, работать, вязать, вышивать, стегать, ткать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. II, 1175)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ткать, вышивать, надевать, вязать (на спицах), стар, делать, долбить, нарекать, dziac si$ совершаться, про­ исходить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dziajac</ref> = dziac</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 632)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gduc</ref> sq</orth>
+      </form>
+      <sense>
+        <def>сниться , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только безличн., Lorentz Slovinz. Wb. I, 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪшпи</ref>, дЪю</orth>
+      </form>
+      <sense>
+        <def>делать , действовать, быть в силах , не д%и&gt; не дЪите пусти, пустите, не трогай, не мешайте, позвольте , дЪшш, дЪю говорить Изб. 1073 г., 24; Пов. вр. л. под 1150 г. и мн. др. , дЪшаисхл делаться, происходить , дити, дию — дЪти, дЪ- хлти , дЪти, дЪж% делать, рас­ поряжаться (Дух. Новг. и Дв. XIV—XV в.), отправить, поме­ стить , деть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Панд. Ант. XI в.; Ип. л. под 1114 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Иппол. Антихр. 49)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 800—801)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Гал. ев. XIII в.; Пов. вр. л. под 912 г. и мн. др., Срезневский I, 801—802)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 803)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Илар. Зак. Благ.; Пов. вр. л. под 1043 г., Срезневский I, 803—804)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вопр. Кир., Срезневский I, 666)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Смол. гр. 1229 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1204 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срез­ невский I, 794)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>деть</ref>, дену</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>деяться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться, совершаться, происходить , дйятъся делаться, случаться , дёять, дёю делать, совершать, тво­ рить что-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ветл., костр., волог., вят., сев.-двинск., олон., ленингр., нижегор., ряз., краснояр., якут., Филин 8, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>д1яти</ref>, дъю</orth>
+      </form>
+      <sense>
+        <def>делать , dimu, diny девать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 393)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзець</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>деть</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Давно обращено внимание на родство знач-й 'facere' и 'dicere' на слав, почве. См. Fr. Kurelac «Rad» XV, 1871, 135 и сл.; Mekovati (eg) E. G. Отин. — «Актуальные проблемы исторической лексикологии», стр. 172. Праслав. *de(ja)ti продолжает и.-е. *dhe- во всех его основных знач-ях 'ставить, класть' — 'делать'. Ср. др.-инд. dddhati 'ставит, кладет', авест. dadaiti то же, арм. dnem 'ставить, класть', хетт. Ье- то же, греч. TC&amp;TJ{JLI 'класть, ставить', сюда же лат. con-do 'ос­ новывать', лат. facio 'делать' (с -к- расширением), др.-в.-нем. tuon 'делать', лит. detl 'класть'. Слав. *dejati представляет собой, по- видимому, вторично суффигированное (-/-) и тематизированное (гл. на -ati) первонач. атематическое и.-е. *dhe-mi. См. A. Meil­ let. Sur les suffixes verbaux secondaires en indo-europeen.—MSL 11, 1900, 308; Он же MSL 14, 1907, 387 (о 1 л. наст. вр. ст.- слав. fr6&gt;Kb7R&lt;^*dhe-dh-ye-; ср. и сербохорв. стар, djesti, d]edem, RJA II, 454—455); Berneker I, 193; С. D. Buck. Words of spe­ aking and saying in the Indo-European languages. — AJPh XXXVI, 1915, 133—134; A. Meillet RES II, 1922, 207; E. H. Sturtevant «Language» 3, 1927, 219; Pokorny I, 235—236; E. Benveniste «Word» 10, 1954, 252—253 (о родстве знач-ий 'ставить' ~ 'де­ лать' на примере продолжений и.-е. *dhe-); I. Popovid WdS VII, 1962, 80 (о родстве знач-й 'делать' 'говорить' на ю.-слав. и зап.-слав. примерах); F. Stawski «Sprawozdania z prac naukowych wydzialu nauk spotecznych V, 5 (27), 1963, 49; J. Safarewicz «Studia linguistica in honorem Th. Lehr-Sptawinski» 136; Фасмер I, 509 (с литер.).</note>
+</Entry>

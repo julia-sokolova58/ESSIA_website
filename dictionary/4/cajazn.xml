@@ -1,0 +1,26 @@
+<Entry xml:id="cajazn">
+  <pb n="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čajaznь</orth>
+    <lemma>čajaznь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чдгазыА</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>надежда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в., Срезнев­ ский III, 1485)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от гл. <ref type="etymon" target="cajati">*cajati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

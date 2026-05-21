@@ -1,0 +1,56 @@
+<Entry xml:id="cadjav">
+  <pb n="9" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*čad(j)avь</orth>
+    <lemma>čad(j)avь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чЩав</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>закопченный, fuliginosus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XVII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdjav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>потемневший (о зрелом вино­ граде) , cddcw, прилаг. черный как сажа .— Возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 92)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чагаф</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>задымленный, гряз­ ный , стар, чагав то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбоз БД II, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Й. Груев. Земя и небо. Летоструй, 1872. Архив Болг. возрождения, София)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -av- от глагольно-именной основы<ref type="etymon" target="cadj-">*cad(j)-</ref> 
+(см. <ref type="etymon" target="cadby">*cadby</ref>
+      <ref type="etymon" target="caditi">*caditi)</ref>.</gram>
+  </gramGrp>
+  <note>Непосредственной базой образова­ ния может считаться некое условное итеративно-дуративное *cad- {j)ati, соотносительное с *caditi.</note>
+</Entry>
